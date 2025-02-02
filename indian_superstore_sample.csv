@@ -1,0 +1,1001 @@
+Order ID,Region,State,Category,Sub-Category,Sales,Profit,Quantity,Discount,Customer Name,City,Payment Mode,Profit Ratio
+1,South,Madhya Pradesh,Electronics,Fiction,42962.33,14302.31,5,0.0,Customer_0,City_0,Debit Card,0.33
+2,South,Himachal Pradesh,Books,Televisions,47173.72,12378.22,18,0.05,Customer_1,City_1,Cash,0.26
+3,South,Odisha,Electronics,Kids' Fashion,6488.99,8164.77,4,0.2,Customer_2,City_2,UPI,1.26
+4,West,Odisha,Beauty & Personal Care,Non-Fiction,48905.99,8458.53,7,0.1,Customer_3,City_3,Credit Card,0.17
+5,Central,Tamil Nadu,Electronics,Skincare,10169.27,4385.13,3,0.0,Customer_4,City_4,UPI,0.43
+6,North,Andhra Pradesh,Beauty & Personal Care,Women's Fashion,7448.33,12897.25,3,0.15,Customer_5,City_5,Cash,1.73
+7,East,Sikkim,Books,Men's Fashion,23846.98,2878.79,10,0.15,Customer_6,City_6,UPI,0.12
+8,South,Uttarakhand,Books,Women's Fashion,14447.68,-2358.94,14,0.15,Customer_7,City_7,UPI,-0.16
+9,North,Karnataka,Beauty & Personal Care,Women's Fashion,22554.94,-2641.89,6,0.05,Customer_8,City_8,Cash,-0.12
+10,East,Karnataka,Books,Women's Fashion,30212.89,9803.05,13,0.15,Customer_9,City_9,Debit Card,0.32
+11,Central,Jharkhand,Clothing,Skincare,46904.26,-1539.15,1,0.15,Customer_10,City_10,Cash,-0.03
+12,Central,Jharkhand,Home & Kitchen,Furniture,33044.04,7456.76,6,0.1,Customer_11,City_11,UPI,0.23
+13,North,Sikkim,Beauty & Personal Care,Non-Fiction,36058.42,5680.06,11,0.15,Customer_12,City_12,Credit Card,0.16
+14,East,Tamil Nadu,Books,Textbooks,1863.82,13330.73,13,0.0,Customer_13,City_13,Credit Card,7.15
+15,West,Bihar,Electronics,Laptops,6323.88,14684.02,17,0.2,Customer_14,City_14,UPI,2.32
+16,Central,Mizoram,Beauty & Personal Care,Furniture,42344.66,4634.3,11,0.1,Customer_15,City_15,UPI,0.11
+17,Central,Tamil Nadu,Books,Laptops,20429.7,6307.56,5,0.05,Customer_16,City_16,Cash,0.31
+18,West,Telangana,Electronics,Men's Fashion,27411.35,5974.51,9,0.15,Customer_17,City_17,Credit Card,0.22
+19,Central,West Bengal,Clothing,Non-Fiction,48258.67,-2761.84,11,0.2,Customer_18,City_18,Debit Card,-0.06
+20,West,Jharkhand,Beauty & Personal Care,Kids' Fashion,32679.67,116.24,6,0.0,Customer_19,City_19,Debit Card,0.0
+21,South,Madhya Pradesh,Home & Kitchen,Haircare,31856.47,4360.8,13,0.1,Customer_20,City_20,UPI,0.14
+22,West,Karnataka,Beauty & Personal Care,Cookware,46575.09,13242.85,5,0.0,Customer_21,City_21,UPI,0.28
+23,East,Nagaland,Electronics,Skincare,10376.66,-341.97,10,0.1,Customer_22,City_22,Cash,-0.03
+24,Central,Jammu & Kashmir,Electronics,Haircare,29722.98,3554.89,8,0.0,Customer_23,City_23,Debit Card,0.12
+25,West,Gujarat,Home & Kitchen,Men's Fashion,20441.25,11321.79,6,0.05,Customer_24,City_24,UPI,0.55
+26,South,Rajasthan,Books,Women's Fashion,34445.28,572.05,3,0.0,Customer_25,City_25,Debit Card,0.02
+27,East,Punjab,Clothing,Men's Fashion,1361.11,-4925.57,15,0.0,Customer_26,City_26,Debit Card,-3.62
+28,South,Arunachal Pradesh,Home & Kitchen,Fiction,33044.0,9036.91,9,0.0,Customer_27,City_27,UPI,0.27
+29,South,Assam,Clothing,Textbooks,27008.55,-1480.78,4,0.1,Customer_28,City_28,UPI,-0.05
+30,North,Nagaland,Home & Kitchen,Fiction,26875.2,14445.0,8,0.15,Customer_29,City_29,Cash,0.54
+31,South,Nagaland,Beauty & Personal Care,Textbooks,28770.2,4680.09,18,0.2,Customer_30,City_30,Cash,0.16
+32,West,Haryana,Electronics,Non-Fiction,33692.21,-1005.86,5,0.15,Customer_31,City_31,Cash,-0.03
+33,West,Tripura,Home & Kitchen,Haircare,3802.91,9129.43,11,0.1,Customer_32,City_32,UPI,2.4
+34,North,Rajasthan,Home & Kitchen,Fiction,14073.91,2030.5,4,0.2,Customer_33,City_33,UPI,0.14
+35,Central,Goa,Electronics,Televisions,2175.81,11032.31,1,0.1,Customer_34,City_34,UPI,5.07
+36,Central,Delhi,Books,Textbooks,11373.81,466.43,4,0.05,Customer_35,City_35,Cash,0.04
+37,South,Kerala,Books,Audio,18821.34,-67.11,7,0.2,Customer_36,City_36,Debit Card,-0.0
+38,North,Meghalaya,Electronics,Audio,31929.16,-2993.27,8,0.2,Customer_37,City_37,Credit Card,-0.09
+39,East,Karnataka,Beauty & Personal Care,Men's Fashion,5674.26,6285.75,11,0.05,Customer_38,City_38,Credit Card,1.11
+40,North,Kerala,Home & Kitchen,Non-Fiction,17665.23,1848.63,18,0.15,Customer_39,City_39,Cash,0.1
+41,Central,West Bengal,Home & Kitchen,Laptops,12622.98,-538.37,19,0.15,Customer_40,City_40,UPI,-0.04
+42,North,Mizoram,Electronics,Decor,33259.7,5398.63,15,0.0,Customer_41,City_41,Credit Card,0.16
+43,West,Tamil Nadu,Home & Kitchen,Decor,25239.38,8065.35,10,0.1,Customer_42,City_42,Debit Card,0.32
+44,North,Gujarat,Books,Televisions,9587.33,8780.68,10,0.2,Customer_43,City_43,UPI,0.92
+45,Central,Chhattisgarh,Home & Kitchen,Skincare,41705.59,8809.86,2,0.05,Customer_44,City_44,UPI,0.21
+46,Central,Madhya Pradesh,Home & Kitchen,Haircare,36696.64,10477.83,1,0.2,Customer_45,City_45,Debit Card,0.29
+47,South,Chhattisgarh,Clothing,Decor,6498.09,-1548.81,15,0.1,Customer_46,City_46,Cash,-0.24
+48,South,Haryana,Electronics,Non-Fiction,42509.67,14786.81,9,0.0,Customer_47,City_47,Debit Card,0.35
+49,West,Chhattisgarh,Clothing,Women's Fashion,27465.67,5890.21,12,0.0,Customer_48,City_48,Debit Card,0.21
+50,West,Manipur,Clothing,Cookware,917.06,12452.19,7,0.05,Customer_49,City_49,Cash,13.58
+51,West,Tamil Nadu,Home & Kitchen,Audio,15051.06,-496.79,14,0.05,Customer_50,City_50,UPI,-0.03
+52,Central,Punjab,Electronics,Haircare,45515.94,-4037.82,6,0.15,Customer_51,City_51,Cash,-0.09
+53,Central,Kerala,Books,Women's Fashion,11540.04,8636.0,10,0.15,Customer_52,City_52,Cash,0.75
+54,South,Mizoram,Clothing,Non-Fiction,22577.3,-831.71,2,0.05,Customer_53,City_53,Credit Card,-0.04
+55,West,Mizoram,Books,Women's Fashion,27554.62,-4712.49,9,0.1,Customer_54,City_54,Cash,-0.17
+56,Central,Madhya Pradesh,Beauty & Personal Care,Cookware,32377.91,-3378.67,13,0.15,Customer_55,City_55,Cash,-0.1
+57,West,Sikkim,Clothing,Men's Fashion,5918.12,3011.65,7,0.0,Customer_56,City_56,Cash,0.51
+58,South,Odisha,Beauty & Personal Care,Fiction,37106.18,-2110.85,17,0.15,Customer_57,City_57,Credit Card,-0.06
+59,West,Goa,Home & Kitchen,Women's Fashion,21403.16,14479.98,10,0.05,Customer_58,City_58,Debit Card,0.68
+60,East,Andhra Pradesh,Books,Fiction,6719.79,-1912.64,4,0.15,Customer_59,City_59,Cash,-0.28
+61,South,Bihar,Home & Kitchen,Textbooks,49085.85,12592.16,14,0.0,Customer_60,City_60,Cash,0.26
+62,West,Assam,Books,Men's Fashion,47372.7,9764.15,11,0.05,Customer_61,City_61,Debit Card,0.21
+63,South,Jammu & Kashmir,Books,Cosmetics,46949.88,2688.82,17,0.15,Customer_62,City_62,Credit Card,0.06
+64,South,Andhra Pradesh,Clothing,Audio,49564.47,11399.99,9,0.0,Customer_63,City_63,Cash,0.23
+65,West,Delhi,Clothing,Televisions,12281.4,2200.12,17,0.15,Customer_64,City_64,Credit Card,0.18
+66,Central,Uttarakhand,Home & Kitchen,Cookware,3598.07,6657.67,12,0.0,Customer_65,City_65,UPI,1.85
+67,East,Delhi,Electronics,Cookware,43145.52,5040.21,6,0.15,Customer_66,City_66,UPI,0.12
+68,East,Madhya Pradesh,Beauty & Personal Care,Women's Fashion,49962.92,11209.56,5,0.15,Customer_67,City_67,Credit Card,0.22
+69,Central,Telangana,Books,Cosmetics,28879.16,13749.65,1,0.1,Customer_68,City_68,UPI,0.48
+70,South,Goa,Electronics,Furniture,30716.26,13279.52,18,0.0,Customer_69,City_69,Debit Card,0.43
+71,Central,Karnataka,Electronics,Non-Fiction,24154.43,3996.39,14,0.0,Customer_70,City_70,Credit Card,0.17
+72,Central,Jharkhand,Beauty & Personal Care,Audio,18206.5,14795.61,17,0.1,Customer_71,City_71,Cash,0.81
+73,South,Odisha,Books,Furniture,9186.35,8312.76,11,0.0,Customer_72,City_72,UPI,0.9
+74,East,West Bengal,Beauty & Personal Care,Men's Fashion,27757.2,11806.55,5,0.15,Customer_73,City_73,Cash,0.43
+75,West,Telangana,Home & Kitchen,Men's Fashion,22077.02,7014.91,1,0.2,Customer_74,City_74,Cash,0.32
+76,Central,Madhya Pradesh,Beauty & Personal Care,Decor,30400.25,1940.5,3,0.2,Customer_75,City_75,UPI,0.06
+77,Central,Manipur,Home & Kitchen,Women's Fashion,25046.44,2553.13,13,0.0,Customer_76,City_76,Debit Card,0.1
+78,West,Odisha,Clothing,Skincare,31981.86,14027.74,12,0.15,Customer_77,City_77,Cash,0.44
+79,East,Andhra Pradesh,Electronics,Women's Fashion,46296.85,4640.02,14,0.2,Customer_78,City_78,Cash,0.1
+80,East,Haryana,Clothing,Fiction,15500.67,334.2,14,0.15,Customer_79,City_79,Credit Card,0.02
+81,West,Madhya Pradesh,Books,Decor,30663.45,9518.31,18,0.2,Customer_80,City_80,Cash,0.31
+82,Central,Assam,Books,Laptops,14954.97,6813.82,17,0.2,Customer_81,City_81,UPI,0.46
+83,Central,West Bengal,Clothing,Cookware,10698.43,2752.0,14,0.2,Customer_82,City_82,Credit Card,0.26
+84,North,Maharashtra,Electronics,Skincare,8741.43,12095.4,18,0.0,Customer_83,City_83,Cash,1.38
+85,Central,Bihar,Beauty & Personal Care,Skincare,1480.78,-1328.57,14,0.15,Customer_84,City_84,Credit Card,-0.9
+86,Central,Rajasthan,Home & Kitchen,Non-Fiction,39516.71,-2331.69,17,0.2,Customer_85,City_85,Cash,-0.06
+87,South,West Bengal,Home & Kitchen,Fiction,48507.26,8418.44,17,0.0,Customer_86,City_86,Cash,0.17
+88,West,Nagaland,Home & Kitchen,Televisions,29984.48,14.49,6,0.05,Customer_87,City_87,Debit Card,0.0
+89,Central,Delhi,Home & Kitchen,Non-Fiction,17240.51,11775.66,3,0.0,Customer_88,City_88,UPI,0.68
+90,North,Delhi,Beauty & Personal Care,Mobiles,8908.31,-4501.09,11,0.05,Customer_89,City_89,Debit Card,-0.51
+91,North,Gujarat,Electronics,Cookware,2169.57,10452.07,15,0.2,Customer_90,City_90,UPI,4.82
+92,East,Gujarat,Electronics,Cosmetics,45824.31,4744.35,11,0.05,Customer_91,City_91,Cash,0.1
+93,East,Tripura,Books,Textbooks,35131.49,11012.22,1,0.0,Customer_92,City_92,UPI,0.31
+94,West,Uttarakhand,Home & Kitchen,Haircare,47588.75,-4404.55,9,0.2,Customer_93,City_93,Debit Card,-0.09
+95,East,Arunachal Pradesh,Clothing,Cookware,25289.11,577.98,7,0.1,Customer_94,City_94,Credit Card,0.02
+96,East,Punjab,Books,Furniture,37783.38,9088.65,5,0.05,Customer_95,City_95,Cash,0.24
+97,North,Maharashtra,Books,Cosmetics,27203.58,-3569.54,10,0.0,Customer_96,City_96,UPI,-0.13
+98,Central,Tamil Nadu,Home & Kitchen,Laptops,40172.74,4143.7,13,0.1,Customer_97,City_97,Credit Card,0.1
+99,Central,Manipur,Home & Kitchen,Haircare,18244.62,11211.56,14,0.0,Customer_98,City_98,Credit Card,0.61
+100,North,Tamil Nadu,Books,Women's Fashion,34128.8,7740.49,16,0.1,Customer_99,City_99,UPI,0.23
+101,South,Meghalaya,Clothing,Fiction,39047.42,12916.45,19,0.1,Customer_100,City_100,Credit Card,0.33
+102,Central,Meghalaya,Beauty & Personal Care,Televisions,26708.67,11638.36,15,0.0,Customer_101,City_101,Credit Card,0.44
+103,East,Chhattisgarh,Electronics,Laptops,13304.35,10634.55,17,0.15,Customer_102,City_102,Debit Card,0.8
+104,East,Madhya Pradesh,Books,Mobiles,15642.99,4464.16,3,0.05,Customer_103,City_103,Cash,0.29
+105,Central,Delhi,Home & Kitchen,Kids' Fashion,7058.91,6755.18,2,0.0,Customer_104,City_104,UPI,0.96
+106,West,Uttar Pradesh,Electronics,Women's Fashion,33470.41,14752.19,5,0.0,Customer_105,City_105,UPI,0.44
+107,South,Arunachal Pradesh,Books,Decor,7302.63,13590.87,7,0.05,Customer_106,City_106,Credit Card,1.86
+108,North,Himachal Pradesh,Books,Decor,7834.56,3723.99,17,0.15,Customer_107,City_107,Debit Card,0.48
+109,Central,West Bengal,Home & Kitchen,Cookware,49762.48,11689.66,3,0.2,Customer_108,City_108,Debit Card,0.23
+110,South,Punjab,Books,Kids' Fashion,38895.33,-3559.17,12,0.0,Customer_109,City_109,Cash,-0.09
+111,West,Meghalaya,Electronics,Laptops,32813.75,7525.48,17,0.1,Customer_110,City_110,Credit Card,0.23
+112,North,Mizoram,Books,Men's Fashion,27072.22,-439.26,8,0.2,Customer_111,City_111,Cash,-0.02
+113,Central,Haryana,Beauty & Personal Care,Furniture,1509.49,10038.91,18,0.15,Customer_112,City_112,UPI,6.65
+114,South,Nagaland,Home & Kitchen,Cookware,4467.72,9441.26,13,0.05,Customer_113,City_113,Debit Card,2.11
+115,North,Uttar Pradesh,Beauty & Personal Care,Haircare,3401.33,11327.33,4,0.15,Customer_114,City_114,Debit Card,3.33
+116,West,Odisha,Electronics,Women's Fashion,33215.64,-2850.02,9,0.05,Customer_115,City_115,Credit Card,-0.09
+117,South,Karnataka,Books,Decor,49441.25,-780.04,18,0.05,Customer_116,City_116,UPI,-0.02
+118,East,Gujarat,Beauty & Personal Care,Kids' Fashion,37189.78,11922.18,1,0.1,Customer_117,City_117,Debit Card,0.32
+119,West,Mizoram,Clothing,Fiction,2176.05,13942.16,19,0.1,Customer_118,City_118,UPI,6.41
+120,West,Uttar Pradesh,Beauty & Personal Care,Textbooks,20168.42,403.07,19,0.15,Customer_119,City_119,Credit Card,0.02
+121,Central,Himachal Pradesh,Electronics,Decor,40602.07,175.22,11,0.05,Customer_120,City_120,Credit Card,0.0
+122,Central,Goa,Books,Textbooks,31152.35,10449.27,1,0.2,Customer_121,City_121,Debit Card,0.34
+123,East,Nagaland,Clothing,Haircare,31076.56,-768.73,11,0.1,Customer_122,City_122,UPI,-0.02
+124,West,Arunachal Pradesh,Beauty & Personal Care,Cosmetics,9263.06,14667.37,17,0.2,Customer_123,City_123,Credit Card,1.58
+125,Central,Goa,Clothing,Non-Fiction,17009.89,1758.78,14,0.2,Customer_124,City_124,UPI,0.1
+126,West,Goa,Clothing,Decor,15218.76,5028.37,9,0.1,Customer_125,City_125,Debit Card,0.33
+127,South,Himachal Pradesh,Electronics,Mobiles,13765.88,6698.49,15,0.2,Customer_126,City_126,Debit Card,0.49
+128,South,Meghalaya,Clothing,Men's Fashion,22830.95,6033.59,8,0.15,Customer_127,City_127,Debit Card,0.26
+129,Central,Madhya Pradesh,Clothing,Decor,2132.12,10623.85,5,0.15,Customer_128,City_128,Debit Card,4.98
+130,West,Manipur,Beauty & Personal Care,Decor,30675.77,8504.14,12,0.15,Customer_129,City_129,Cash,0.28
+131,West,Madhya Pradesh,Electronics,Fiction,25935.76,11899.62,4,0.15,Customer_130,City_130,Debit Card,0.46
+132,South,Chhattisgarh,Electronics,Cookware,30377.01,14790.63,13,0.1,Customer_131,City_131,Credit Card,0.49
+133,Central,Telangana,Beauty & Personal Care,Textbooks,33454.84,1833.58,11,0.0,Customer_132,City_132,Debit Card,0.05
+134,North,Nagaland,Books,Skincare,39996.1,14580.93,8,0.1,Customer_133,City_133,UPI,0.36
+135,East,Sikkim,Home & Kitchen,Non-Fiction,8875.51,892.52,8,0.0,Customer_134,City_134,Credit Card,0.1
+136,South,Andhra Pradesh,Beauty & Personal Care,Audio,21398.84,11573.25,10,0.2,Customer_135,City_135,UPI,0.54
+137,West,Uttarakhand,Books,Mobiles,41147.8,12221.05,10,0.15,Customer_136,City_136,Cash,0.3
+138,South,Karnataka,Beauty & Personal Care,Kids' Fashion,8819.6,9576.26,4,0.15,Customer_137,City_137,UPI,1.09
+139,North,Tamil Nadu,Books,Audio,43714.66,3113.39,3,0.1,Customer_138,City_138,Debit Card,0.07
+140,East,Karnataka,Clothing,Cookware,40637.88,14387.46,12,0.0,Customer_139,City_139,Cash,0.35
+141,Central,Punjab,Home & Kitchen,Haircare,28862.6,735.74,5,0.1,Customer_140,City_140,UPI,0.03
+142,West,Nagaland,Home & Kitchen,Cookware,26664.79,13401.83,16,0.15,Customer_141,City_141,Debit Card,0.5
+143,Central,Telangana,Beauty & Personal Care,Skincare,44801.41,13890.66,4,0.0,Customer_142,City_142,Debit Card,0.31
+144,East,Bihar,Electronics,Decor,11994.92,1847.0,16,0.05,Customer_143,City_143,Debit Card,0.15
+145,North,Gujarat,Electronics,Non-Fiction,10521.64,965.58,5,0.05,Customer_144,City_144,Debit Card,0.09
+146,North,Goa,Electronics,Cosmetics,1644.73,7365.32,6,0.05,Customer_145,City_145,UPI,4.48
+147,Central,Tamil Nadu,Electronics,Non-Fiction,48892.21,12805.5,3,0.15,Customer_146,City_146,Credit Card,0.26
+148,East,Tripura,Books,Skincare,20376.1,-4505.06,6,0.05,Customer_147,City_147,Debit Card,-0.22
+149,North,Uttar Pradesh,Clothing,Televisions,14136.59,2686.93,6,0.2,Customer_148,City_148,Debit Card,0.19
+150,West,Madhya Pradesh,Beauty & Personal Care,Textbooks,8568.96,10381.1,16,0.0,Customer_149,City_149,UPI,1.21
+151,North,Mizoram,Home & Kitchen,Mobiles,10958.7,-1522.96,1,0.15,Customer_150,City_150,Debit Card,-0.14
+152,West,Jammu & Kashmir,Electronics,Audio,13097.87,11644.2,4,0.0,Customer_151,City_151,Credit Card,0.89
+153,Central,Punjab,Clothing,Non-Fiction,7595.0,4538.72,16,0.0,Customer_152,City_152,UPI,0.6
+154,East,Mizoram,Beauty & Personal Care,Men's Fashion,6033.92,8139.81,9,0.0,Customer_153,City_153,Credit Card,1.35
+155,South,Goa,Clothing,Cosmetics,38497.27,13546.02,17,0.15,Customer_154,City_154,Cash,0.35
+156,East,Himachal Pradesh,Beauty & Personal Care,Furniture,4441.22,-4526.95,14,0.15,Customer_155,City_155,UPI,-1.02
+157,South,Mizoram,Books,Non-Fiction,4680.06,2081.75,12,0.05,Customer_156,City_156,Credit Card,0.44
+158,South,Tamil Nadu,Clothing,Cookware,17279.14,-4536.97,4,0.0,Customer_157,City_157,Debit Card,-0.26
+159,South,Punjab,Home & Kitchen,Cookware,46002.96,-1037.0,2,0.15,Customer_158,City_158,Debit Card,-0.02
+160,West,Punjab,Beauty & Personal Care,Men's Fashion,9011.49,1335.04,14,0.2,Customer_159,City_159,Credit Card,0.15
+161,East,Meghalaya,Home & Kitchen,Laptops,49420.42,13998.36,6,0.15,Customer_160,City_160,Debit Card,0.28
+162,Central,West Bengal,Electronics,Women's Fashion,11151.45,4559.01,10,0.15,Customer_161,City_161,Cash,0.41
+163,Central,Madhya Pradesh,Beauty & Personal Care,Televisions,46545.22,1039.83,9,0.05,Customer_162,City_162,Debit Card,0.02
+164,West,Manipur,Electronics,Haircare,26980.98,5404.71,11,0.05,Customer_163,City_163,UPI,0.2
+165,South,Rajasthan,Home & Kitchen,Mobiles,47784.52,1226.46,10,0.2,Customer_164,City_164,UPI,0.03
+166,Central,Chhattisgarh,Electronics,Kids' Fashion,20778.44,-2941.25,3,0.15,Customer_165,City_165,Debit Card,-0.14
+167,South,Arunachal Pradesh,Books,Televisions,12513.4,12413.82,19,0.1,Customer_166,City_166,Cash,0.99
+168,Central,Madhya Pradesh,Electronics,Fiction,7894.63,-1776.99,15,0.15,Customer_167,City_167,UPI,-0.23
+169,North,Assam,Beauty & Personal Care,Decor,45747.79,13270.71,14,0.15,Customer_168,City_168,Cash,0.29
+170,East,Madhya Pradesh,Home & Kitchen,Audio,12388.12,1555.68,10,0.0,Customer_169,City_169,UPI,0.13
+171,East,Tripura,Home & Kitchen,Skincare,566.56,-4649.23,10,0.05,Customer_170,City_170,Credit Card,-8.21
+172,Central,Andhra Pradesh,Home & Kitchen,Women's Fashion,18553.89,14447.92,4,0.0,Customer_171,City_171,Credit Card,0.78
+173,West,Gujarat,Electronics,Haircare,28849.15,-3312.06,17,0.0,Customer_172,City_172,Cash,-0.11
+174,East,Madhya Pradesh,Electronics,Televisions,44012.24,10482.62,19,0.15,Customer_173,City_173,Debit Card,0.24
+175,West,Gujarat,Clothing,Mobiles,49574.44,-1750.17,8,0.0,Customer_174,City_174,Debit Card,-0.04
+176,West,Meghalaya,Beauty & Personal Care,Audio,35389.88,-1807.49,16,0.2,Customer_175,City_175,Debit Card,-0.05
+177,East,Gujarat,Electronics,Televisions,14942.5,12127.35,4,0.1,Customer_176,City_176,Credit Card,0.81
+178,East,Madhya Pradesh,Electronics,Non-Fiction,26878.11,11091.11,8,0.15,Customer_177,City_177,Credit Card,0.41
+179,South,Uttarakhand,Beauty & Personal Care,Audio,48512.21,8351.36,2,0.15,Customer_178,City_178,Cash,0.17
+180,West,Punjab,Beauty & Personal Care,Women's Fashion,45207.63,-339.9,18,0.05,Customer_179,City_179,Cash,-0.01
+181,East,Tripura,Clothing,Textbooks,19252.95,14722.85,8,0.0,Customer_180,City_180,Credit Card,0.76
+182,North,Odisha,Books,Laptops,42141.93,-4225.42,16,0.1,Customer_181,City_181,Debit Card,-0.1
+183,Central,Karnataka,Clothing,Cookware,39060.56,7603.31,15,0.2,Customer_182,City_182,Debit Card,0.19
+184,East,Delhi,Home & Kitchen,Televisions,15859.12,582.1,4,0.15,Customer_183,City_183,Credit Card,0.04
+185,North,Karnataka,Books,Furniture,48241.28,8275.06,16,0.05,Customer_184,City_184,Credit Card,0.17
+186,East,Chhattisgarh,Books,Cosmetics,11060.46,-4678.34,17,0.2,Customer_185,City_185,Debit Card,-0.42
+187,North,Punjab,Home & Kitchen,Men's Fashion,34862.95,-1195.21,17,0.2,Customer_186,City_186,Cash,-0.03
+188,Central,Madhya Pradesh,Home & Kitchen,Non-Fiction,4181.16,12062.18,9,0.05,Customer_187,City_187,Debit Card,2.88
+189,South,Arunachal Pradesh,Home & Kitchen,Haircare,14640.01,14673.86,11,0.0,Customer_188,City_188,Cash,1.0
+190,Central,Karnataka,Clothing,Cosmetics,49065.96,4640.62,9,0.15,Customer_189,City_189,Debit Card,0.09
+191,Central,Uttarakhand,Electronics,Televisions,38181.98,5211.71,19,0.0,Customer_190,City_190,Cash,0.14
+192,East,Kerala,Beauty & Personal Care,Women's Fashion,9437.67,13449.54,13,0.1,Customer_191,City_191,Debit Card,1.43
+193,East,Delhi,Clothing,Textbooks,3906.31,3057.67,13,0.15,Customer_192,City_192,Debit Card,0.78
+194,South,Goa,Books,Cookware,48953.84,13322.67,6,0.2,Customer_193,City_193,Cash,0.27
+195,South,Tamil Nadu,Electronics,Fiction,6814.73,-261.89,11,0.15,Customer_194,City_194,UPI,-0.04
+196,North,Jharkhand,Home & Kitchen,Kids' Fashion,46210.13,2312.42,4,0.0,Customer_195,City_195,Credit Card,0.05
+197,North,Chhattisgarh,Books,Mobiles,46516.8,13121.1,5,0.2,Customer_196,City_196,Cash,0.28
+198,West,Sikkim,Beauty & Personal Care,Textbooks,33818.34,9410.66,8,0.0,Customer_197,City_197,Credit Card,0.28
+199,East,Goa,Electronics,Women's Fashion,21773.97,10119.93,18,0.2,Customer_198,City_198,UPI,0.46
+200,Central,Delhi,Home & Kitchen,Decor,37134.58,7216.28,10,0.2,Customer_199,City_199,Debit Card,0.19
+201,South,Odisha,Books,Skincare,16445.64,-3534.23,1,0.05,Customer_200,City_200,Cash,-0.21
+202,East,Karnataka,Books,Haircare,45816.95,10428.43,18,0.0,Customer_201,City_201,Debit Card,0.23
+203,South,Karnataka,Books,Non-Fiction,14606.44,4543.58,17,0.05,Customer_202,City_202,Credit Card,0.31
+204,Central,Himachal Pradesh,Books,Women's Fashion,31569.07,1076.88,4,0.15,Customer_203,City_203,Cash,0.03
+205,South,West Bengal,Home & Kitchen,Non-Fiction,9813.77,4667.97,11,0.0,Customer_204,City_204,Credit Card,0.48
+206,Central,Kerala,Clothing,Cookware,9499.69,8487.54,15,0.2,Customer_205,City_205,Debit Card,0.89
+207,South,Maharashtra,Books,Non-Fiction,31235.56,10319.44,11,0.0,Customer_206,City_206,Credit Card,0.33
+208,West,Andhra Pradesh,Home & Kitchen,Laptops,7396.6,13225.42,9,0.2,Customer_207,City_207,Debit Card,1.79
+209,East,Telangana,Beauty & Personal Care,Non-Fiction,11541.86,14588.9,16,0.1,Customer_208,City_208,Credit Card,1.26
+210,Central,Maharashtra,Beauty & Personal Care,Cookware,13410.29,13624.86,12,0.1,Customer_209,City_209,UPI,1.02
+211,East,Arunachal Pradesh,Electronics,Women's Fashion,24738.99,2156.39,1,0.0,Customer_210,City_210,Credit Card,0.09
+212,North,Tripura,Home & Kitchen,Televisions,37863.42,13102.13,2,0.05,Customer_211,City_211,Debit Card,0.35
+213,Central,Madhya Pradesh,Books,Skincare,14395.53,-333.2,5,0.0,Customer_212,City_212,Cash,-0.02
+214,North,Tamil Nadu,Beauty & Personal Care,Men's Fashion,6623.77,3392.47,10,0.2,Customer_213,City_213,Credit Card,0.51
+215,West,Jharkhand,Electronics,Women's Fashion,44780.28,7032.46,6,0.1,Customer_214,City_214,Debit Card,0.16
+216,Central,Assam,Beauty & Personal Care,Non-Fiction,23323.26,-4960.7,10,0.05,Customer_215,City_215,Credit Card,-0.21
+217,East,Tamil Nadu,Beauty & Personal Care,Non-Fiction,48585.94,12623.59,4,0.05,Customer_216,City_216,Debit Card,0.26
+218,West,Haryana,Beauty & Personal Care,Fiction,29494.67,10294.39,19,0.0,Customer_217,City_217,Cash,0.35
+219,South,Arunachal Pradesh,Home & Kitchen,Men's Fashion,7610.69,470.68,13,0.15,Customer_218,City_218,UPI,0.06
+220,Central,Tamil Nadu,Beauty & Personal Care,Furniture,7619.25,1844.15,5,0.0,Customer_219,City_219,Cash,0.24
+221,South,Himachal Pradesh,Home & Kitchen,Haircare,23272.52,7989.23,6,0.15,Customer_220,City_220,Debit Card,0.34
+222,Central,Madhya Pradesh,Clothing,Women's Fashion,29516.86,13391.39,10,0.1,Customer_221,City_221,Credit Card,0.45
+223,West,Goa,Electronics,Cosmetics,2902.14,13607.76,15,0.15,Customer_222,City_222,Credit Card,4.69
+224,East,West Bengal,Beauty & Personal Care,Mobiles,11719.7,6224.25,16,0.1,Customer_223,City_223,Credit Card,0.53
+225,West,Telangana,Electronics,Kids' Fashion,5022.34,5277.94,19,0.05,Customer_224,City_224,Debit Card,1.05
+226,North,Arunachal Pradesh,Beauty & Personal Care,Cosmetics,7755.47,1650.53,6,0.2,Customer_225,City_225,Cash,0.21
+227,South,Andhra Pradesh,Clothing,Textbooks,43066.13,12319.04,7,0.1,Customer_226,City_226,Debit Card,0.29
+228,North,Chhattisgarh,Electronics,Decor,41879.88,7622.4,13,0.0,Customer_227,City_227,UPI,0.18
+229,West,Sikkim,Beauty & Personal Care,Women's Fashion,40892.65,14509.33,4,0.0,Customer_228,City_228,Cash,0.35
+230,South,Meghalaya,Books,Haircare,23437.56,10898.0,10,0.0,Customer_229,City_229,UPI,0.46
+231,East,Maharashtra,Electronics,Kids' Fashion,33783.11,13333.07,1,0.15,Customer_230,City_230,UPI,0.39
+232,West,Maharashtra,Beauty & Personal Care,Cookware,16625.68,2754.29,5,0.0,Customer_231,City_231,Credit Card,0.17
+233,East,Rajasthan,Clothing,Men's Fashion,13216.1,12026.16,2,0.1,Customer_232,City_232,Credit Card,0.91
+234,South,West Bengal,Clothing,Skincare,31318.53,1273.73,5,0.15,Customer_233,City_233,Cash,0.04
+235,West,Mizoram,Beauty & Personal Care,Kids' Fashion,19179.36,4138.51,9,0.2,Customer_234,City_234,UPI,0.22
+236,East,Punjab,Beauty & Personal Care,Men's Fashion,18708.24,1285.57,16,0.1,Customer_235,City_235,Cash,0.07
+237,East,Haryana,Home & Kitchen,Women's Fashion,24679.7,-4644.37,3,0.05,Customer_236,City_236,Cash,-0.19
+238,South,Uttarakhand,Electronics,Kids' Fashion,24539.83,3536.7,14,0.0,Customer_237,City_237,UPI,0.14
+239,Central,Manipur,Beauty & Personal Care,Audio,45581.28,11845.82,3,0.1,Customer_238,City_238,Debit Card,0.26
+240,West,Chhattisgarh,Clothing,Fiction,38096.64,7501.76,7,0.05,Customer_239,City_239,Cash,0.2
+241,Central,Mizoram,Clothing,Textbooks,38787.06,3917.69,12,0.2,Customer_240,City_240,Debit Card,0.1
+242,Central,Maharashtra,Books,Fiction,35094.69,4360.65,12,0.2,Customer_241,City_241,Debit Card,0.12
+243,South,Punjab,Beauty & Personal Care,Furniture,38556.71,-2053.35,14,0.05,Customer_242,City_242,Credit Card,-0.05
+244,East,Haryana,Books,Laptops,16252.32,14725.83,8,0.1,Customer_243,City_243,Credit Card,0.91
+245,East,Jharkhand,Home & Kitchen,Textbooks,48757.93,12563.81,2,0.15,Customer_244,City_244,Credit Card,0.26
+246,East,Arunachal Pradesh,Home & Kitchen,Cookware,21105.71,1541.67,2,0.15,Customer_245,City_245,Credit Card,0.07
+247,North,Himachal Pradesh,Beauty & Personal Care,Decor,29131.01,6773.28,7,0.05,Customer_246,City_246,Debit Card,0.23
+248,South,Mizoram,Clothing,Haircare,33187.01,14999.14,19,0.2,Customer_247,City_247,UPI,0.45
+249,East,Tripura,Books,Haircare,566.42,-2777.71,16,0.05,Customer_248,City_248,UPI,-4.9
+250,East,Gujarat,Clothing,Fiction,22616.67,-4501.3,18,0.1,Customer_249,City_249,UPI,-0.2
+251,West,Arunachal Pradesh,Clothing,Cookware,43500.65,-1338.92,2,0.15,Customer_250,City_250,Cash,-0.03
+252,East,Sikkim,Clothing,Decor,27902.16,428.36,7,0.0,Customer_251,City_251,Cash,0.02
+253,North,Nagaland,Books,Kids' Fashion,35011.92,2661.76,10,0.2,Customer_252,City_252,Debit Card,0.08
+254,West,Punjab,Electronics,Audio,2983.02,3892.2,13,0.0,Customer_253,City_253,Cash,1.3
+255,East,Manipur,Home & Kitchen,Skincare,33677.62,-2069.42,16,0.0,Customer_254,City_254,Cash,-0.06
+256,North,Uttar Pradesh,Beauty & Personal Care,Kids' Fashion,46774.11,10565.01,12,0.05,Customer_255,City_255,UPI,0.23
+257,South,Kerala,Books,Cookware,42428.4,8083.62,11,0.2,Customer_256,City_256,UPI,0.19
+258,West,Jammu & Kashmir,Books,Cosmetics,14612.5,881.31,8,0.05,Customer_257,City_257,Credit Card,0.06
+259,East,Chhattisgarh,Home & Kitchen,Furniture,36153.66,23.3,15,0.2,Customer_258,City_258,UPI,0.0
+260,Central,Madhya Pradesh,Electronics,Skincare,14039.58,3803.26,10,0.05,Customer_259,City_259,Cash,0.27
+261,East,Gujarat,Books,Men's Fashion,12382.02,4828.74,15,0.1,Customer_260,City_260,Cash,0.39
+262,Central,Haryana,Electronics,Haircare,47399.34,5996.53,14,0.15,Customer_261,City_261,Credit Card,0.13
+263,South,Arunachal Pradesh,Beauty & Personal Care,Mobiles,47250.35,5055.51,18,0.2,Customer_262,City_262,Credit Card,0.11
+264,West,Himachal Pradesh,Books,Audio,37911.28,-92.3,1,0.1,Customer_263,City_263,Credit Card,-0.0
+265,Central,West Bengal,Books,Skincare,42638.38,142.51,11,0.1,Customer_264,City_264,Cash,0.0
+266,Central,Maharashtra,Electronics,Non-Fiction,12730.47,4379.15,6,0.2,Customer_265,City_265,UPI,0.34
+267,South,Mizoram,Books,Non-Fiction,43448.83,1954.7,9,0.1,Customer_266,City_266,Debit Card,0.04
+268,East,Rajasthan,Clothing,Fiction,7282.27,2369.09,5,0.05,Customer_267,City_267,Debit Card,0.33
+269,West,Chhattisgarh,Books,Decor,32879.8,-2771.03,11,0.2,Customer_268,City_268,Cash,-0.08
+270,East,Nagaland,Clothing,Furniture,34023.97,3281.61,1,0.0,Customer_269,City_269,UPI,0.1
+271,South,Meghalaya,Electronics,Cosmetics,45748.0,-4638.5,5,0.15,Customer_270,City_270,Debit Card,-0.1
+272,South,Himachal Pradesh,Electronics,Kids' Fashion,14662.41,-1654.75,11,0.0,Customer_271,City_271,Credit Card,-0.11
+273,West,Tamil Nadu,Electronics,Kids' Fashion,44839.54,6901.81,11,0.0,Customer_272,City_272,UPI,0.15
+274,East,Tamil Nadu,Beauty & Personal Care,Furniture,38003.55,6651.49,17,0.05,Customer_273,City_273,UPI,0.18
+275,Central,Tamil Nadu,Home & Kitchen,Cosmetics,4806.39,9364.42,10,0.1,Customer_274,City_274,Cash,1.95
+276,Central,Haryana,Home & Kitchen,Mobiles,7450.25,10640.32,9,0.15,Customer_275,City_275,Credit Card,1.43
+277,Central,Jammu & Kashmir,Beauty & Personal Care,Women's Fashion,9516.71,10554.57,9,0.1,Customer_276,City_276,UPI,1.11
+278,North,Arunachal Pradesh,Beauty & Personal Care,Laptops,7245.72,-3893.16,13,0.1,Customer_277,City_277,Credit Card,-0.54
+279,North,Arunachal Pradesh,Clothing,Decor,46223.3,10561.77,12,0.1,Customer_278,City_278,Credit Card,0.23
+280,North,Nagaland,Electronics,Haircare,8630.31,14436.11,16,0.15,Customer_279,City_279,Credit Card,1.67
+281,North,Telangana,Clothing,Non-Fiction,31342.88,-946.48,18,0.1,Customer_280,City_280,Debit Card,-0.03
+282,South,Uttar Pradesh,Books,Decor,36942.68,13805.77,10,0.2,Customer_281,City_281,Debit Card,0.37
+283,South,Delhi,Clothing,Audio,6557.71,10429.3,9,0.05,Customer_282,City_282,UPI,1.59
+284,East,Gujarat,Electronics,Men's Fashion,28949.71,4645.84,18,0.2,Customer_283,City_283,Cash,0.16
+285,Central,Jammu & Kashmir,Electronics,Haircare,18933.44,159.64,4,0.15,Customer_284,City_284,UPI,0.01
+286,Central,Assam,Electronics,Men's Fashion,8213.75,13034.14,12,0.0,Customer_285,City_285,Debit Card,1.59
+287,West,Andhra Pradesh,Clothing,Skincare,32109.45,631.93,12,0.2,Customer_286,City_286,Credit Card,0.02
+288,East,Uttar Pradesh,Beauty & Personal Care,Non-Fiction,36789.82,-230.26,11,0.0,Customer_287,City_287,UPI,-0.01
+289,West,Telangana,Clothing,Skincare,8942.54,10476.22,15,0.2,Customer_288,City_288,Credit Card,1.17
+290,East,Karnataka,Beauty & Personal Care,Audio,4868.01,-1053.57,2,0.05,Customer_289,City_289,Cash,-0.22
+291,West,Rajasthan,Beauty & Personal Care,Women's Fashion,38664.63,2437.06,14,0.2,Customer_290,City_290,UPI,0.06
+292,East,Manipur,Beauty & Personal Care,Skincare,48249.57,-3853.72,7,0.15,Customer_291,City_291,Credit Card,-0.08
+293,East,Manipur,Beauty & Personal Care,Haircare,17230.18,564.07,6,0.05,Customer_292,City_292,UPI,0.03
+294,West,Haryana,Electronics,Textbooks,15069.21,13663.87,14,0.0,Customer_293,City_293,Debit Card,0.91
+295,East,West Bengal,Beauty & Personal Care,Men's Fashion,17122.17,-1748.8,17,0.05,Customer_294,City_294,Debit Card,-0.1
+296,East,Uttarakhand,Books,Televisions,5771.74,13644.36,13,0.0,Customer_295,City_295,Credit Card,2.36
+297,South,Uttarakhand,Electronics,Cookware,27307.36,3446.98,3,0.0,Customer_296,City_296,Cash,0.13
+298,Central,Mizoram,Clothing,Men's Fashion,5348.84,-4152.76,8,0.05,Customer_297,City_297,Credit Card,-0.78
+299,East,Rajasthan,Books,Textbooks,9507.4,7718.55,5,0.1,Customer_298,City_298,Debit Card,0.81
+300,East,Mizoram,Books,Men's Fashion,33145.03,10904.89,4,0.15,Customer_299,City_299,Credit Card,0.33
+301,South,Madhya Pradesh,Clothing,Cosmetics,44735.4,9158.46,16,0.2,Customer_300,City_300,Cash,0.2
+302,Central,Delhi,Electronics,Laptops,18484.85,-4191.99,4,0.1,Customer_301,City_301,UPI,-0.23
+303,South,West Bengal,Home & Kitchen,Decor,26920.6,257.44,12,0.05,Customer_302,City_302,Credit Card,0.01
+304,East,Madhya Pradesh,Books,Skincare,49108.27,7909.8,1,0.15,Customer_303,City_303,Cash,0.16
+305,North,Jharkhand,Home & Kitchen,Mobiles,15115.06,-3299.73,10,0.2,Customer_304,City_304,UPI,-0.22
+306,North,Punjab,Home & Kitchen,Haircare,22924.91,6096.82,15,0.0,Customer_305,City_305,UPI,0.27
+307,West,Manipur,Electronics,Kids' Fashion,23444.76,345.14,12,0.1,Customer_306,City_306,Cash,0.01
+308,South,Rajasthan,Books,Kids' Fashion,41116.91,3730.29,12,0.2,Customer_307,City_307,UPI,0.09
+309,West,Madhya Pradesh,Books,Kids' Fashion,35357.08,-977.36,14,0.1,Customer_308,City_308,Credit Card,-0.03
+310,Central,Telangana,Clothing,Televisions,2469.86,12464.77,5,0.0,Customer_309,City_309,Debit Card,5.05
+311,South,Himachal Pradesh,Books,Kids' Fashion,39878.84,-272.09,10,0.15,Customer_310,City_310,Cash,-0.01
+312,North,Arunachal Pradesh,Books,Textbooks,36959.11,13550.05,19,0.2,Customer_311,City_311,Credit Card,0.37
+313,North,Assam,Home & Kitchen,Skincare,17212.75,6800.98,11,0.1,Customer_312,City_312,UPI,0.4
+314,North,Karnataka,Clothing,Cookware,3267.65,3811.96,10,0.05,Customer_313,City_313,Credit Card,1.17
+315,Central,Odisha,Beauty & Personal Care,Cookware,32772.79,-4237.76,19,0.1,Customer_314,City_314,Credit Card,-0.13
+316,North,Andhra Pradesh,Books,Fiction,36384.6,4544.22,5,0.2,Customer_315,City_315,Credit Card,0.12
+317,East,Manipur,Home & Kitchen,Televisions,13770.34,11537.48,19,0.2,Customer_316,City_316,Credit Card,0.84
+318,Central,Delhi,Electronics,Furniture,22914.83,11232.0,1,0.1,Customer_317,City_317,Cash,0.49
+319,West,Gujarat,Clothing,Cosmetics,47573.8,13882.51,12,0.0,Customer_318,City_318,UPI,0.29
+320,South,Karnataka,Clothing,Televisions,512.09,12042.68,13,0.05,Customer_319,City_319,Debit Card,23.52
+321,East,Jharkhand,Books,Decor,23025.29,4190.93,16,0.0,Customer_320,City_320,Debit Card,0.18
+322,North,Rajasthan,Books,Textbooks,1263.27,-3374.3,11,0.1,Customer_321,City_321,Credit Card,-2.67
+323,West,Chhattisgarh,Books,Cosmetics,27293.39,4705.46,4,0.15,Customer_322,City_322,UPI,0.17
+324,North,Manipur,Home & Kitchen,Furniture,22763.25,4107.16,4,0.0,Customer_323,City_323,Debit Card,0.18
+325,East,Meghalaya,Electronics,Kids' Fashion,10557.89,13350.93,5,0.15,Customer_324,City_324,UPI,1.26
+326,North,Karnataka,Clothing,Men's Fashion,27357.92,10849.32,14,0.0,Customer_325,City_325,Debit Card,0.4
+327,South,Tamil Nadu,Books,Skincare,46955.95,3276.8,14,0.0,Customer_326,City_326,Credit Card,0.07
+328,West,Delhi,Beauty & Personal Care,Audio,34707.02,-554.96,18,0.15,Customer_327,City_327,Debit Card,-0.02
+329,Central,Nagaland,Books,Audio,40699.09,13353.62,19,0.15,Customer_328,City_328,Credit Card,0.33
+330,South,Uttarakhand,Clothing,Textbooks,15568.25,5698.91,1,0.1,Customer_329,City_329,Debit Card,0.37
+331,West,Himachal Pradesh,Home & Kitchen,Non-Fiction,5975.42,1858.71,19,0.0,Customer_330,City_330,Debit Card,0.31
+332,West,Gujarat,Books,Cookware,46078.27,8295.8,3,0.0,Customer_331,City_331,Debit Card,0.18
+333,West,Jammu & Kashmir,Electronics,Skincare,26333.67,-4012.71,2,0.0,Customer_332,City_332,Cash,-0.15
+334,South,Gujarat,Home & Kitchen,Decor,18905.54,4928.72,4,0.2,Customer_333,City_333,Credit Card,0.26
+335,Central,Andhra Pradesh,Home & Kitchen,Televisions,31466.48,3336.04,9,0.2,Customer_334,City_334,UPI,0.11
+336,West,Odisha,Books,Women's Fashion,1855.95,5137.81,15,0.05,Customer_335,City_335,UPI,2.77
+337,North,Madhya Pradesh,Clothing,Haircare,40958.44,5061.24,11,0.05,Customer_336,City_336,Debit Card,0.12
+338,West,Jharkhand,Books,Furniture,6080.04,8450.18,1,0.05,Customer_337,City_337,UPI,1.39
+339,Central,Goa,Books,Furniture,1329.56,-1882.1,4,0.1,Customer_338,City_338,UPI,-1.42
+340,East,Goa,Home & Kitchen,Mobiles,26557.89,4115.84,13,0.2,Customer_339,City_339,Debit Card,0.15
+341,West,Jharkhand,Electronics,Kids' Fashion,36211.56,-3024.28,9,0.15,Customer_340,City_340,Cash,-0.08
+342,East,Manipur,Clothing,Mobiles,19779.43,8459.24,13,0.1,Customer_341,City_341,Credit Card,0.43
+343,Central,Kerala,Beauty & Personal Care,Decor,39953.36,6627.51,17,0.05,Customer_342,City_342,Cash,0.17
+344,East,Delhi,Beauty & Personal Care,Kids' Fashion,1179.86,1774.91,3,0.15,Customer_343,City_343,Credit Card,1.5
+345,North,Uttar Pradesh,Home & Kitchen,Furniture,43120.06,12751.76,3,0.0,Customer_344,City_344,UPI,0.3
+346,East,Arunachal Pradesh,Books,Furniture,17186.55,8472.23,11,0.0,Customer_345,City_345,UPI,0.49
+347,South,Uttar Pradesh,Books,Televisions,22696.56,1425.91,9,0.0,Customer_346,City_346,Debit Card,0.06
+348,South,Uttar Pradesh,Books,Skincare,2913.67,527.04,10,0.2,Customer_347,City_347,Cash,0.18
+349,North,Himachal Pradesh,Beauty & Personal Care,Laptops,18053.12,10642.8,8,0.2,Customer_348,City_348,Debit Card,0.59
+350,North,West Bengal,Beauty & Personal Care,Haircare,3192.73,3594.8,10,0.0,Customer_349,City_349,Debit Card,1.13
+351,West,Tripura,Books,Kids' Fashion,30320.78,13778.93,6,0.1,Customer_350,City_350,Cash,0.45
+352,South,Odisha,Home & Kitchen,Men's Fashion,42518.98,4064.56,15,0.05,Customer_351,City_351,Credit Card,0.1
+353,West,Haryana,Books,Men's Fashion,7181.14,6224.68,19,0.15,Customer_352,City_352,Debit Card,0.87
+354,North,Madhya Pradesh,Clothing,Skincare,17498.52,14350.74,7,0.2,Customer_353,City_353,Cash,0.82
+355,Central,Kerala,Beauty & Personal Care,Haircare,13549.87,-1345.95,9,0.05,Customer_354,City_354,UPI,-0.1
+356,South,Sikkim,Electronics,Haircare,43123.92,2608.09,19,0.05,Customer_355,City_355,Cash,0.06
+357,East,Meghalaya,Home & Kitchen,Furniture,35504.83,-4129.1,10,0.0,Customer_356,City_356,UPI,-0.12
+358,Central,Telangana,Home & Kitchen,Women's Fashion,27271.21,-2270.96,14,0.15,Customer_357,City_357,Debit Card,-0.08
+359,Central,Manipur,Electronics,Audio,40686.37,-1411.8,5,0.05,Customer_358,City_358,Credit Card,-0.03
+360,Central,Nagaland,Home & Kitchen,Decor,27812.09,-921.08,13,0.1,Customer_359,City_359,Cash,-0.03
+361,West,Madhya Pradesh,Home & Kitchen,Cookware,2684.73,-3142.1,15,0.05,Customer_360,City_360,UPI,-1.17
+362,South,Himachal Pradesh,Home & Kitchen,Laptops,17626.0,9240.57,1,0.2,Customer_361,City_361,UPI,0.52
+363,Central,Andhra Pradesh,Books,Textbooks,7837.25,5397.73,16,0.2,Customer_362,City_362,Cash,0.69
+364,South,Jharkhand,Books,Cookware,13875.04,12324.86,8,0.2,Customer_363,City_363,Cash,0.89
+365,East,Madhya Pradesh,Home & Kitchen,Men's Fashion,30440.35,7391.55,5,0.1,Customer_364,City_364,Debit Card,0.24
+366,West,Mizoram,Home & Kitchen,Mobiles,7174.1,12942.69,5,0.15,Customer_365,City_365,Cash,1.8
+367,West,Madhya Pradesh,Electronics,Textbooks,7679.75,64.92,19,0.2,Customer_366,City_366,UPI,0.01
+368,Central,Chhattisgarh,Home & Kitchen,Textbooks,27168.09,1847.02,7,0.15,Customer_367,City_367,Debit Card,0.07
+369,East,Karnataka,Books,Skincare,28307.63,10131.44,12,0.0,Customer_368,City_368,Cash,0.36
+370,Central,Karnataka,Books,Textbooks,19058.25,-4049.81,17,0.15,Customer_369,City_369,Cash,-0.21
+371,North,Jharkhand,Home & Kitchen,Women's Fashion,6281.88,5881.56,12,0.05,Customer_370,City_370,Debit Card,0.94
+372,South,Meghalaya,Beauty & Personal Care,Mobiles,35827.65,-3233.98,4,0.15,Customer_371,City_371,Cash,-0.09
+373,West,Nagaland,Home & Kitchen,Men's Fashion,32276.22,13794.53,4,0.2,Customer_372,City_372,Debit Card,0.43
+374,South,Chhattisgarh,Electronics,Textbooks,6098.86,3602.5,15,0.2,Customer_373,City_373,Debit Card,0.59
+375,East,Sikkim,Electronics,Textbooks,44277.71,13322.44,16,0.1,Customer_374,City_374,Credit Card,0.3
+376,West,Mizoram,Clothing,Furniture,15054.51,-2978.06,16,0.15,Customer_375,City_375,Credit Card,-0.2
+377,East,Mizoram,Electronics,Haircare,27111.55,10141.1,11,0.1,Customer_376,City_376,UPI,0.37
+378,West,Punjab,Clothing,Laptops,8023.97,5027.02,5,0.0,Customer_377,City_377,Cash,0.63
+379,West,Delhi,Beauty & Personal Care,Mobiles,42460.19,3966.47,1,0.1,Customer_378,City_378,Cash,0.09
+380,West,Maharashtra,Books,Furniture,1165.28,-2777.87,13,0.1,Customer_379,City_379,Debit Card,-2.38
+381,East,Delhi,Beauty & Personal Care,Haircare,7145.21,6558.46,13,0.2,Customer_380,City_380,UPI,0.92
+382,South,Nagaland,Home & Kitchen,Audio,36618.35,12454.46,10,0.05,Customer_381,City_381,UPI,0.34
+383,West,Manipur,Beauty & Personal Care,Decor,29416.59,10360.1,15,0.1,Customer_382,City_382,UPI,0.35
+384,Central,Meghalaya,Books,Laptops,49360.65,5053.61,7,0.05,Customer_383,City_383,UPI,0.1
+385,South,Kerala,Home & Kitchen,Men's Fashion,6999.88,-1530.39,4,0.2,Customer_384,City_384,Credit Card,-0.22
+386,East,Chhattisgarh,Beauty & Personal Care,Textbooks,42039.73,1369.08,18,0.0,Customer_385,City_385,Credit Card,0.03
+387,East,Arunachal Pradesh,Books,Furniture,31769.4,12644.8,19,0.0,Customer_386,City_386,UPI,0.4
+388,West,Himachal Pradesh,Books,Women's Fashion,8232.11,9463.16,4,0.0,Customer_387,City_387,Credit Card,1.15
+389,Central,Karnataka,Electronics,Skincare,47708.19,5506.1,8,0.15,Customer_388,City_388,UPI,0.12
+390,West,Chhattisgarh,Books,Cookware,2102.43,-2887.33,17,0.15,Customer_389,City_389,UPI,-1.37
+391,Central,Tamil Nadu,Books,Cookware,24508.57,9780.32,19,0.15,Customer_390,City_390,UPI,0.4
+392,West,Arunachal Pradesh,Home & Kitchen,Men's Fashion,30431.27,2232.97,5,0.0,Customer_391,City_391,UPI,0.07
+393,South,West Bengal,Clothing,Fiction,24757.21,-2116.72,15,0.0,Customer_392,City_392,Credit Card,-0.09
+394,Central,Uttar Pradesh,Home & Kitchen,Men's Fashion,22171.28,10172.72,2,0.15,Customer_393,City_393,UPI,0.46
+395,East,Tripura,Home & Kitchen,Decor,38213.25,8103.16,17,0.05,Customer_394,City_394,Debit Card,0.21
+396,North,Odisha,Beauty & Personal Care,Decor,49719.6,6411.45,16,0.15,Customer_395,City_395,Cash,0.13
+397,South,Haryana,Electronics,Laptops,15550.94,6088.8,12,0.05,Customer_396,City_396,UPI,0.39
+398,South,Madhya Pradesh,Electronics,Haircare,10382.38,-3044.59,2,0.0,Customer_397,City_397,UPI,-0.29
+399,North,Tripura,Beauty & Personal Care,Haircare,31643.65,551.15,3,0.0,Customer_398,City_398,Debit Card,0.02
+400,South,Odisha,Books,Furniture,6878.31,11250.02,11,0.05,Customer_399,City_399,Debit Card,1.64
+401,South,Haryana,Books,Kids' Fashion,502.43,12351.48,8,0.05,Customer_400,City_400,Credit Card,24.58
+402,Central,Telangana,Books,Kids' Fashion,32549.0,14861.81,11,0.05,Customer_401,City_401,Debit Card,0.46
+403,Central,Andhra Pradesh,Electronics,Skincare,33250.62,7934.23,12,0.2,Customer_402,City_402,UPI,0.24
+404,West,Gujarat,Clothing,Televisions,12714.0,9441.45,7,0.05,Customer_403,City_403,Debit Card,0.74
+405,West,Punjab,Home & Kitchen,Skincare,31035.74,938.51,1,0.15,Customer_404,City_404,Credit Card,0.03
+406,North,Bihar,Beauty & Personal Care,Laptops,35470.84,-3056.01,17,0.2,Customer_405,City_405,Credit Card,-0.09
+407,North,Odisha,Electronics,Fiction,14216.39,12586.6,7,0.05,Customer_406,City_406,Cash,0.89
+408,East,Maharashtra,Clothing,Decor,44803.27,-4800.6,15,0.1,Customer_407,City_407,Cash,-0.11
+409,Central,Gujarat,Electronics,Decor,45470.68,12528.0,5,0.15,Customer_408,City_408,Debit Card,0.28
+410,North,Madhya Pradesh,Books,Skincare,33916.48,-4635.06,3,0.05,Customer_409,City_409,Debit Card,-0.14
+411,West,Meghalaya,Home & Kitchen,Laptops,40855.62,5104.54,4,0.05,Customer_410,City_410,Credit Card,0.12
+412,South,Sikkim,Home & Kitchen,Fiction,47022.79,8665.57,8,0.05,Customer_411,City_411,Cash,0.18
+413,East,Jharkhand,Clothing,Decor,12332.44,4771.71,3,0.15,Customer_412,City_412,UPI,0.39
+414,North,Jharkhand,Books,Skincare,42907.92,5111.1,17,0.15,Customer_413,City_413,Debit Card,0.12
+415,South,Chhattisgarh,Clothing,Women's Fashion,34759.3,3431.67,9,0.1,Customer_414,City_414,Credit Card,0.1
+416,West,Himachal Pradesh,Books,Kids' Fashion,31963.37,2098.34,5,0.1,Customer_415,City_415,UPI,0.07
+417,East,Jammu & Kashmir,Clothing,Textbooks,10857.4,10217.12,4,0.2,Customer_416,City_416,Credit Card,0.94
+418,West,Sikkim,Clothing,Kids' Fashion,18286.78,11217.37,12,0.0,Customer_417,City_417,Debit Card,0.61
+419,East,Jharkhand,Home & Kitchen,Fiction,6788.03,-1365.34,14,0.1,Customer_418,City_418,Cash,-0.2
+420,South,Karnataka,Clothing,Cookware,14102.75,13154.36,3,0.05,Customer_419,City_419,UPI,0.93
+421,North,Karnataka,Books,Mobiles,8025.92,7400.77,10,0.15,Customer_420,City_420,Credit Card,0.92
+422,South,Odisha,Clothing,Audio,46476.62,-2082.47,11,0.0,Customer_421,City_421,Credit Card,-0.04
+423,Central,Arunachal Pradesh,Books,Audio,35587.76,-132.17,11,0.1,Customer_422,City_422,Cash,-0.0
+424,West,Andhra Pradesh,Books,Kids' Fashion,49737.69,-425.72,19,0.2,Customer_423,City_423,UPI,-0.01
+425,East,Delhi,Home & Kitchen,Non-Fiction,21215.2,7650.4,16,0.15,Customer_424,City_424,Credit Card,0.36
+426,North,Telangana,Beauty & Personal Care,Mobiles,39509.76,-3993.97,18,0.15,Customer_425,City_425,Cash,-0.1
+427,South,Mizoram,Clothing,Skincare,20391.53,-3887.06,12,0.0,Customer_426,City_426,Debit Card,-0.19
+428,North,Telangana,Clothing,Men's Fashion,3105.51,8260.62,8,0.05,Customer_427,City_427,Cash,2.66
+429,East,Odisha,Clothing,Textbooks,9834.93,3151.44,19,0.0,Customer_428,City_428,Cash,0.32
+430,East,Bihar,Home & Kitchen,Non-Fiction,49800.19,4766.27,13,0.0,Customer_429,City_429,Credit Card,0.1
+431,East,Telangana,Home & Kitchen,Women's Fashion,43441.72,10063.32,9,0.2,Customer_430,City_430,UPI,0.23
+432,Central,Arunachal Pradesh,Electronics,Women's Fashion,6024.0,-2791.35,12,0.05,Customer_431,City_431,UPI,-0.46
+433,Central,Tamil Nadu,Home & Kitchen,Mobiles,4852.93,1627.51,4,0.2,Customer_432,City_432,UPI,0.34
+434,West,Madhya Pradesh,Clothing,Furniture,10994.5,827.65,2,0.1,Customer_433,City_433,Credit Card,0.08
+435,Central,Jharkhand,Books,Decor,19177.46,9285.91,4,0.1,Customer_434,City_434,Debit Card,0.48
+436,Central,Sikkim,Books,Cookware,47928.83,2572.25,7,0.0,Customer_435,City_435,UPI,0.05
+437,East,Karnataka,Home & Kitchen,Televisions,15098.18,10187.96,5,0.15,Customer_436,City_436,Credit Card,0.67
+438,South,Odisha,Home & Kitchen,Haircare,4513.86,8797.97,5,0.0,Customer_437,City_437,Credit Card,1.95
+439,East,Rajasthan,Books,Cosmetics,5700.66,8053.04,1,0.2,Customer_438,City_438,Cash,1.41
+440,East,Assam,Electronics,Haircare,45240.32,13124.58,18,0.0,Customer_439,City_439,Debit Card,0.29
+441,South,Arunachal Pradesh,Clothing,Televisions,30614.32,11505.02,18,0.05,Customer_440,City_440,UPI,0.38
+442,South,Jharkhand,Books,Textbooks,33628.58,1311.78,10,0.15,Customer_441,City_441,UPI,0.04
+443,South,Manipur,Clothing,Audio,15081.04,13121.7,10,0.15,Customer_442,City_442,Debit Card,0.87
+444,Central,Goa,Electronics,Mobiles,4292.93,14684.87,2,0.05,Customer_443,City_443,Debit Card,3.42
+445,West,Mizoram,Home & Kitchen,Haircare,4474.12,12737.1,8,0.15,Customer_444,City_444,Debit Card,2.85
+446,Central,Meghalaya,Books,Kids' Fashion,44707.35,250.02,7,0.1,Customer_445,City_445,Debit Card,0.01
+447,North,Nagaland,Electronics,Laptops,25206.12,8729.35,6,0.2,Customer_446,City_446,Cash,0.35
+448,North,Tamil Nadu,Electronics,Televisions,9547.59,3897.71,15,0.0,Customer_447,City_447,Debit Card,0.41
+449,North,Mizoram,Books,Cookware,26839.97,6804.0,4,0.05,Customer_448,City_448,Credit Card,0.25
+450,East,Madhya Pradesh,Beauty & Personal Care,Cookware,26446.66,10357.29,3,0.2,Customer_449,City_449,UPI,0.39
+451,West,Nagaland,Books,Televisions,33619.77,-1674.75,6,0.15,Customer_450,City_450,Debit Card,-0.05
+452,Central,Andhra Pradesh,Home & Kitchen,Fiction,25137.13,2479.88,15,0.0,Customer_451,City_451,Cash,0.1
+453,North,Meghalaya,Books,Kids' Fashion,41038.66,2925.27,13,0.05,Customer_452,City_452,Debit Card,0.07
+454,North,Delhi,Home & Kitchen,Women's Fashion,20179.51,2857.18,8,0.2,Customer_453,City_453,Credit Card,0.14
+455,North,West Bengal,Home & Kitchen,Cookware,30525.76,573.94,11,0.1,Customer_454,City_454,Credit Card,0.02
+456,East,Tripura,Electronics,Skincare,12658.97,3315.65,14,0.2,Customer_455,City_455,Cash,0.26
+457,South,Delhi,Books,Cookware,18354.84,-1138.53,7,0.1,Customer_456,City_456,Debit Card,-0.06
+458,Central,Jammu & Kashmir,Electronics,Women's Fashion,49616.72,-4918.45,19,0.1,Customer_457,City_457,UPI,-0.1
+459,East,Rajasthan,Home & Kitchen,Women's Fashion,15457.51,-2887.9,12,0.05,Customer_458,City_458,Credit Card,-0.19
+460,Central,Meghalaya,Clothing,Laptops,12747.39,12915.52,5,0.1,Customer_459,City_459,Debit Card,1.01
+461,West,Manipur,Books,Televisions,18012.25,12856.82,4,0.0,Customer_460,City_460,Debit Card,0.71
+462,North,Telangana,Books,Audio,31332.14,13846.14,13,0.1,Customer_461,City_461,Credit Card,0.44
+463,South,West Bengal,Home & Kitchen,Haircare,17410.61,-2530.54,2,0.2,Customer_462,City_462,Debit Card,-0.15
+464,North,Madhya Pradesh,Books,Men's Fashion,44658.39,11139.83,17,0.05,Customer_463,City_463,Cash,0.25
+465,South,Telangana,Home & Kitchen,Laptops,3499.05,4348.49,12,0.1,Customer_464,City_464,Credit Card,1.24
+466,South,Mizoram,Home & Kitchen,Fiction,38308.07,12953.92,11,0.15,Customer_465,City_465,Cash,0.34
+467,Central,Nagaland,Beauty & Personal Care,Cookware,45313.6,-3161.65,14,0.15,Customer_466,City_466,Credit Card,-0.07
+468,East,Odisha,Beauty & Personal Care,Fiction,520.41,5707.29,6,0.2,Customer_467,City_467,Cash,10.97
+469,North,Assam,Books,Decor,18012.11,7389.93,4,0.1,Customer_468,City_468,Cash,0.41
+470,South,Tamil Nadu,Beauty & Personal Care,Furniture,6764.59,5205.77,4,0.15,Customer_469,City_469,Credit Card,0.77
+471,Central,Madhya Pradesh,Home & Kitchen,Audio,29062.35,10276.66,14,0.15,Customer_470,City_470,Credit Card,0.35
+472,South,Chhattisgarh,Books,Decor,46629.21,8000.46,19,0.05,Customer_471,City_471,UPI,0.17
+473,South,Telangana,Home & Kitchen,Decor,9407.14,10084.7,16,0.1,Customer_472,City_472,Credit Card,1.07
+474,Central,Uttarakhand,Beauty & Personal Care,Fiction,27376.69,-3745.42,18,0.1,Customer_473,City_473,Debit Card,-0.14
+475,North,Madhya Pradesh,Electronics,Decor,34875.3,2319.19,9,0.05,Customer_474,City_474,UPI,0.07
+476,South,Madhya Pradesh,Clothing,Textbooks,4470.27,1867.98,3,0.15,Customer_475,City_475,UPI,0.42
+477,West,Arunachal Pradesh,Beauty & Personal Care,Skincare,24470.08,5805.87,6,0.1,Customer_476,City_476,UPI,0.24
+478,East,Uttarakhand,Books,Cookware,3956.18,2305.59,7,0.1,Customer_477,City_477,UPI,0.58
+479,Central,Jharkhand,Electronics,Non-Fiction,4285.41,4417.17,6,0.05,Customer_478,City_478,Cash,1.03
+480,South,Jammu & Kashmir,Electronics,Mobiles,22254.38,5701.46,16,0.05,Customer_479,City_479,Credit Card,0.26
+481,South,Uttarakhand,Books,Audio,6152.98,391.11,3,0.15,Customer_480,City_480,Debit Card,0.06
+482,East,Maharashtra,Beauty & Personal Care,Skincare,18021.8,-1576.18,12,0.0,Customer_481,City_481,UPI,-0.09
+483,East,Haryana,Home & Kitchen,Men's Fashion,29825.97,389.67,18,0.0,Customer_482,City_482,Cash,0.01
+484,West,Himachal Pradesh,Beauty & Personal Care,Haircare,13014.0,7107.37,13,0.2,Customer_483,City_483,Credit Card,0.55
+485,North,Jharkhand,Beauty & Personal Care,Laptops,14037.26,-1505.19,13,0.1,Customer_484,City_484,UPI,-0.11
+486,South,Odisha,Electronics,Non-Fiction,28831.83,3585.59,19,0.2,Customer_485,City_485,Cash,0.12
+487,Central,Odisha,Electronics,Kids' Fashion,10073.09,12548.17,12,0.05,Customer_486,City_486,Cash,1.25
+488,West,Madhya Pradesh,Beauty & Personal Care,Decor,13443.19,7822.15,15,0.2,Customer_487,City_487,UPI,0.58
+489,Central,Goa,Books,Haircare,38495.11,7267.01,2,0.2,Customer_488,City_488,Debit Card,0.19
+490,Central,Assam,Beauty & Personal Care,Skincare,12525.46,743.79,3,0.0,Customer_489,City_489,Debit Card,0.06
+491,West,Karnataka,Electronics,Fiction,28682.64,-513.32,17,0.2,Customer_490,City_490,Cash,-0.02
+492,North,Rajasthan,Books,Women's Fashion,1414.86,4438.71,18,0.05,Customer_491,City_491,Credit Card,3.14
+493,West,Maharashtra,Books,Fiction,47115.85,815.31,9,0.1,Customer_492,City_492,Cash,0.02
+494,South,Assam,Home & Kitchen,Men's Fashion,29900.97,9988.34,1,0.15,Customer_493,City_493,Debit Card,0.33
+495,East,Haryana,Home & Kitchen,Televisions,5453.41,6742.38,6,0.15,Customer_494,City_494,UPI,1.24
+496,Central,Uttar Pradesh,Electronics,Laptops,10947.93,-4935.59,7,0.1,Customer_495,City_495,Credit Card,-0.45
+497,South,Tamil Nadu,Books,Women's Fashion,34333.37,-3846.25,6,0.1,Customer_496,City_496,UPI,-0.11
+498,Central,Tamil Nadu,Books,Laptops,35277.0,2595.52,13,0.0,Customer_497,City_497,Debit Card,0.07
+499,North,Haryana,Electronics,Decor,28335.06,1458.43,7,0.05,Customer_498,City_498,Credit Card,0.05
+500,East,Karnataka,Books,Kids' Fashion,40086.17,3356.75,2,0.0,Customer_499,City_499,Cash,0.08
+501,Central,Uttarakhand,Beauty & Personal Care,Skincare,8733.26,1374.2,7,0.1,Customer_500,City_500,Credit Card,0.16
+502,South,Odisha,Electronics,Fiction,24651.88,4125.2,9,0.2,Customer_501,City_501,UPI,0.17
+503,South,Jharkhand,Clothing,Cookware,29514.14,9090.34,5,0.1,Customer_502,City_502,UPI,0.31
+504,North,Gujarat,Clothing,Decor,1138.37,7090.6,13,0.15,Customer_503,City_503,Credit Card,6.23
+505,South,Maharashtra,Clothing,Audio,17987.36,1828.91,14,0.0,Customer_504,City_504,UPI,0.1
+506,Central,Telangana,Beauty & Personal Care,Laptops,29630.41,2821.84,3,0.0,Customer_505,City_505,Debit Card,0.1
+507,East,Himachal Pradesh,Books,Non-Fiction,16269.74,-3921.66,11,0.05,Customer_506,City_506,Debit Card,-0.24
+508,South,Karnataka,Home & Kitchen,Cookware,26876.46,14883.46,11,0.05,Customer_507,City_507,Cash,0.55
+509,Central,Andhra Pradesh,Electronics,Mobiles,6570.26,-4157.38,1,0.15,Customer_508,City_508,Credit Card,-0.63
+510,North,Rajasthan,Home & Kitchen,Televisions,11359.97,-3214.03,5,0.15,Customer_509,City_509,Credit Card,-0.28
+511,Central,Goa,Electronics,Haircare,12048.93,10469.64,14,0.05,Customer_510,City_510,Credit Card,0.87
+512,West,Manipur,Clothing,Kids' Fashion,26601.03,919.85,11,0.2,Customer_511,City_511,UPI,0.03
+513,South,West Bengal,Beauty & Personal Care,Non-Fiction,45698.73,6533.17,1,0.2,Customer_512,City_512,Cash,0.14
+514,North,Odisha,Electronics,Decor,952.19,14244.86,1,0.1,Customer_513,City_513,Debit Card,14.96
+515,East,Andhra Pradesh,Home & Kitchen,Fiction,17715.63,4990.89,17,0.05,Customer_514,City_514,Debit Card,0.28
+516,North,Sikkim,Beauty & Personal Care,Men's Fashion,13581.54,5103.68,18,0.05,Customer_515,City_515,Cash,0.38
+517,West,Jammu & Kashmir,Clothing,Fiction,27294.48,3384.74,13,0.15,Customer_516,City_516,Cash,0.12
+518,South,Nagaland,Books,Furniture,6102.2,10127.49,19,0.2,Customer_517,City_517,Credit Card,1.66
+519,South,Goa,Home & Kitchen,Men's Fashion,43922.04,12629.25,16,0.05,Customer_518,City_518,UPI,0.29
+520,South,Andhra Pradesh,Electronics,Textbooks,29989.75,6947.76,1,0.2,Customer_519,City_519,Debit Card,0.23
+521,West,Uttarakhand,Clothing,Women's Fashion,32877.24,9987.1,17,0.15,Customer_520,City_520,Cash,0.3
+522,East,Tamil Nadu,Electronics,Decor,14818.88,1404.4,3,0.15,Customer_521,City_521,UPI,0.09
+523,South,Mizoram,Books,Mobiles,27192.73,-1897.28,6,0.2,Customer_522,City_522,Debit Card,-0.07
+524,Central,Mizoram,Books,Men's Fashion,5811.19,1347.48,1,0.05,Customer_523,City_523,Debit Card,0.23
+525,West,Haryana,Beauty & Personal Care,Textbooks,13416.93,4473.48,13,0.05,Customer_524,City_524,Cash,0.33
+526,Central,Goa,Home & Kitchen,Televisions,28858.54,5554.19,10,0.05,Customer_525,City_525,Cash,0.19
+527,East,Uttarakhand,Beauty & Personal Care,Skincare,18148.13,-314.17,12,0.0,Customer_526,City_526,Credit Card,-0.02
+528,Central,Tripura,Books,Women's Fashion,16665.0,10299.47,14,0.05,Customer_527,City_527,UPI,0.62
+529,East,Uttar Pradesh,Home & Kitchen,Textbooks,26396.82,10026.01,3,0.1,Customer_528,City_528,UPI,0.38
+530,South,Assam,Books,Cookware,30083.89,6782.47,19,0.05,Customer_529,City_529,Debit Card,0.23
+531,South,Delhi,Electronics,Televisions,40300.42,9614.49,7,0.0,Customer_530,City_530,Credit Card,0.24
+532,South,Chhattisgarh,Home & Kitchen,Decor,37877.94,6832.81,4,0.2,Customer_531,City_531,Debit Card,0.18
+533,East,Himachal Pradesh,Beauty & Personal Care,Haircare,28037.86,3813.19,4,0.2,Customer_532,City_532,Cash,0.14
+534,North,Mizoram,Beauty & Personal Care,Kids' Fashion,42874.28,3260.49,8,0.05,Customer_533,City_533,Credit Card,0.08
+535,North,Meghalaya,Beauty & Personal Care,Men's Fashion,4985.58,-989.94,15,0.05,Customer_534,City_534,UPI,-0.2
+536,North,Karnataka,Electronics,Textbooks,33678.08,-2780.92,12,0.15,Customer_535,City_535,Cash,-0.08
+537,North,Manipur,Books,Televisions,20074.19,8171.61,17,0.2,Customer_536,City_536,Credit Card,0.41
+538,South,Tamil Nadu,Books,Textbooks,33089.75,-2315.87,4,0.0,Customer_537,City_537,Credit Card,-0.07
+539,Central,Rajasthan,Home & Kitchen,Kids' Fashion,47985.61,8159.46,11,0.0,Customer_538,City_538,Cash,0.17
+540,North,Andhra Pradesh,Beauty & Personal Care,Fiction,43844.47,-322.92,4,0.0,Customer_539,City_539,Credit Card,-0.01
+541,West,Haryana,Books,Decor,45520.1,11747.01,6,0.05,Customer_540,City_540,Credit Card,0.26
+542,South,Andhra Pradesh,Books,Laptops,40190.96,10078.23,17,0.15,Customer_541,City_541,Credit Card,0.25
+543,Central,Madhya Pradesh,Clothing,Mobiles,11520.94,11836.26,2,0.1,Customer_542,City_542,Debit Card,1.03
+544,South,Telangana,Books,Non-Fiction,3944.02,2508.67,17,0.2,Customer_543,City_543,Credit Card,0.64
+545,West,Meghalaya,Electronics,Haircare,13990.17,-1967.25,4,0.1,Customer_544,City_544,Cash,-0.14
+546,Central,Andhra Pradesh,Clothing,Televisions,19391.97,1142.79,1,0.0,Customer_545,City_545,Credit Card,0.06
+547,South,Jharkhand,Clothing,Decor,15538.24,3838.79,19,0.2,Customer_546,City_546,Cash,0.25
+548,West,West Bengal,Books,Televisions,33536.56,9579.17,6,0.05,Customer_547,City_547,Cash,0.29
+549,North,Tripura,Home & Kitchen,Laptops,33578.95,12972.13,6,0.0,Customer_548,City_548,Cash,0.39
+550,West,Sikkim,Beauty & Personal Care,Non-Fiction,15111.56,7118.2,19,0.0,Customer_549,City_549,Debit Card,0.47
+551,East,Uttar Pradesh,Home & Kitchen,Furniture,3868.21,2762.57,17,0.0,Customer_550,City_550,UPI,0.71
+552,North,Gujarat,Books,Cosmetics,2927.07,2103.84,3,0.0,Customer_551,City_551,Debit Card,0.72
+553,Central,Jharkhand,Home & Kitchen,Haircare,5573.46,1817.74,17,0.05,Customer_552,City_552,Cash,0.33
+554,Central,Tripura,Books,Televisions,42512.84,12836.13,10,0.05,Customer_553,City_553,Debit Card,0.3
+555,North,Delhi,Clothing,Textbooks,35961.66,3438.84,11,0.05,Customer_554,City_554,Credit Card,0.1
+556,East,Uttar Pradesh,Home & Kitchen,Non-Fiction,25427.63,-4338.27,15,0.2,Customer_555,City_555,Credit Card,-0.17
+557,Central,Andhra Pradesh,Beauty & Personal Care,Haircare,22682.43,6878.13,19,0.05,Customer_556,City_556,Debit Card,0.3
+558,North,Karnataka,Electronics,Women's Fashion,27591.05,5086.75,12,0.2,Customer_557,City_557,Debit Card,0.18
+559,North,Odisha,Clothing,Women's Fashion,47137.66,1204.78,16,0.15,Customer_558,City_558,Debit Card,0.03
+560,East,Uttarakhand,Books,Women's Fashion,21952.5,266.19,16,0.05,Customer_559,City_559,Credit Card,0.01
+561,West,Tripura,Home & Kitchen,Textbooks,3828.77,9745.04,19,0.0,Customer_560,City_560,Cash,2.55
+562,East,Arunachal Pradesh,Clothing,Women's Fashion,11314.11,-3486.95,12,0.1,Customer_561,City_561,Credit Card,-0.31
+563,East,Haryana,Books,Fiction,16016.16,-978.66,5,0.2,Customer_562,City_562,Cash,-0.06
+564,North,Rajasthan,Clothing,Haircare,49758.82,-4960.13,13,0.1,Customer_563,City_563,Credit Card,-0.1
+565,South,Madhya Pradesh,Clothing,Mobiles,29350.56,-110.96,11,0.2,Customer_564,City_564,UPI,-0.0
+566,South,Mizoram,Home & Kitchen,Fiction,46850.35,-4684.25,4,0.1,Customer_565,City_565,Credit Card,-0.1
+567,North,Tripura,Electronics,Televisions,17500.41,13062.61,8,0.15,Customer_566,City_566,Debit Card,0.75
+568,North,Bihar,Electronics,Women's Fashion,33512.63,13676.23,19,0.15,Customer_567,City_567,Cash,0.41
+569,Central,Rajasthan,Home & Kitchen,Non-Fiction,25677.85,2809.12,16,0.0,Customer_568,City_568,Cash,0.11
+570,North,Himachal Pradesh,Electronics,Fiction,13025.29,14206.44,19,0.05,Customer_569,City_569,UPI,1.09
+571,South,Jammu & Kashmir,Home & Kitchen,Televisions,49900.86,-361.66,2,0.05,Customer_570,City_570,Debit Card,-0.01
+572,North,Uttarakhand,Electronics,Televisions,31794.08,3935.27,16,0.15,Customer_571,City_571,Debit Card,0.12
+573,North,Gujarat,Electronics,Decor,20274.85,7035.64,18,0.1,Customer_572,City_572,Credit Card,0.35
+574,East,Bihar,Home & Kitchen,Audio,35234.07,-740.12,14,0.15,Customer_573,City_573,Cash,-0.02
+575,West,Goa,Electronics,Women's Fashion,30233.05,-3287.01,17,0.0,Customer_574,City_574,Credit Card,-0.11
+576,Central,Mizoram,Books,Kids' Fashion,1275.49,5972.06,5,0.0,Customer_575,City_575,Debit Card,4.68
+577,South,Madhya Pradesh,Home & Kitchen,Men's Fashion,32954.26,297.29,9,0.0,Customer_576,City_576,Debit Card,0.01
+578,Central,Maharashtra,Beauty & Personal Care,Textbooks,30556.81,1285.27,1,0.2,Customer_577,City_577,UPI,0.04
+579,Central,Bihar,Electronics,Cookware,6221.74,10786.74,6,0.05,Customer_578,City_578,Debit Card,1.73
+580,West,Telangana,Electronics,Fiction,34046.62,10767.51,10,0.05,Customer_579,City_579,Cash,0.32
+581,East,Karnataka,Clothing,Furniture,38616.97,10139.55,19,0.0,Customer_580,City_580,Cash,0.26
+582,South,Jharkhand,Electronics,Decor,40838.47,-2073.68,2,0.05,Customer_581,City_581,Cash,-0.05
+583,South,Madhya Pradesh,Beauty & Personal Care,Cosmetics,46367.81,7667.18,18,0.2,Customer_582,City_582,Credit Card,0.17
+584,South,Gujarat,Books,Men's Fashion,1470.54,355.35,2,0.05,Customer_583,City_583,UPI,0.24
+585,South,Jharkhand,Clothing,Cosmetics,17580.57,-1484.08,16,0.05,Customer_584,City_584,Credit Card,-0.08
+586,North,Arunachal Pradesh,Beauty & Personal Care,Furniture,11494.04,-4946.13,13,0.0,Customer_585,City_585,Credit Card,-0.43
+587,North,Maharashtra,Clothing,Audio,27440.62,861.36,14,0.15,Customer_586,City_586,Cash,0.03
+588,West,Haryana,Clothing,Non-Fiction,5869.53,3483.92,4,0.05,Customer_587,City_587,Debit Card,0.59
+589,East,Uttar Pradesh,Home & Kitchen,Cookware,13038.18,2458.55,12,0.2,Customer_588,City_588,UPI,0.19
+590,West,Sikkim,Books,Cosmetics,14798.65,6.43,9,0.1,Customer_589,City_589,Credit Card,0.0
+591,East,Uttar Pradesh,Clothing,Women's Fashion,18373.92,-3644.3,15,0.1,Customer_590,City_590,UPI,-0.2
+592,East,Nagaland,Electronics,Kids' Fashion,37604.41,14959.84,12,0.05,Customer_591,City_591,Debit Card,0.4
+593,West,Jammu & Kashmir,Books,Fiction,3049.88,-3124.34,19,0.2,Customer_592,City_592,Debit Card,-1.02
+594,East,Tripura,Beauty & Personal Care,Cookware,41104.84,6610.71,11,0.05,Customer_593,City_593,Debit Card,0.16
+595,East,Goa,Clothing,Decor,24440.51,-2609.93,13,0.05,Customer_594,City_594,Credit Card,-0.11
+596,South,Rajasthan,Books,Furniture,21458.82,516.52,17,0.0,Customer_595,City_595,Credit Card,0.02
+597,East,Bihar,Books,Decor,36977.16,11043.77,16,0.05,Customer_596,City_596,Credit Card,0.3
+598,West,Sikkim,Electronics,Mobiles,20128.41,5638.23,2,0.15,Customer_597,City_597,Debit Card,0.28
+599,East,Odisha,Home & Kitchen,Women's Fashion,47689.44,11017.3,6,0.0,Customer_598,City_598,Cash,0.23
+600,East,Punjab,Electronics,Cosmetics,46857.02,8635.01,16,0.2,Customer_599,City_599,UPI,0.18
+601,Central,Mizoram,Home & Kitchen,Kids' Fashion,1194.49,10750.53,12,0.1,Customer_600,City_600,UPI,9.0
+602,Central,Chhattisgarh,Beauty & Personal Care,Haircare,30601.52,6621.06,8,0.1,Customer_601,City_601,Credit Card,0.22
+603,West,Tamil Nadu,Clothing,Laptops,17143.76,-3124.27,8,0.0,Customer_602,City_602,UPI,-0.18
+604,West,Arunachal Pradesh,Home & Kitchen,Mobiles,23364.25,10475.12,3,0.05,Customer_603,City_603,UPI,0.45
+605,Central,Maharashtra,Books,Textbooks,6073.8,2751.06,6,0.1,Customer_604,City_604,UPI,0.45
+606,South,Mizoram,Books,Fiction,16317.77,550.75,17,0.05,Customer_605,City_605,Debit Card,0.03
+607,Central,Telangana,Home & Kitchen,Laptops,7943.65,-1648.57,11,0.1,Customer_606,City_606,UPI,-0.21
+608,East,Jharkhand,Electronics,Haircare,14831.17,128.85,7,0.2,Customer_607,City_607,Credit Card,0.01
+609,South,Karnataka,Electronics,Furniture,37535.52,4260.73,19,0.0,Customer_608,City_608,UPI,0.11
+610,North,Bihar,Clothing,Decor,41207.09,12331.19,13,0.2,Customer_609,City_609,Cash,0.3
+611,Central,Gujarat,Home & Kitchen,Cookware,19490.54,-4286.29,12,0.2,Customer_610,City_610,Credit Card,-0.22
+612,East,Madhya Pradesh,Home & Kitchen,Cosmetics,21181.59,14471.45,16,0.15,Customer_611,City_611,Cash,0.68
+613,East,Tamil Nadu,Books,Cosmetics,26159.45,1639.25,18,0.2,Customer_612,City_612,UPI,0.06
+614,West,Chhattisgarh,Books,Cosmetics,16390.65,9952.15,13,0.2,Customer_613,City_613,UPI,0.61
+615,East,Kerala,Books,Furniture,38237.66,8821.81,2,0.1,Customer_614,City_614,UPI,0.23
+616,South,Tripura,Clothing,Textbooks,25621.46,8305.18,6,0.1,Customer_615,City_615,UPI,0.32
+617,West,West Bengal,Beauty & Personal Care,Cosmetics,5806.7,843.63,19,0.2,Customer_616,City_616,Cash,0.15
+618,East,Manipur,Clothing,Laptops,34446.36,-3168.4,1,0.0,Customer_617,City_617,Cash,-0.09
+619,Central,Arunachal Pradesh,Electronics,Skincare,21343.63,-1224.32,18,0.0,Customer_618,City_618,UPI,-0.06
+620,Central,Arunachal Pradesh,Beauty & Personal Care,Non-Fiction,32105.92,127.68,14,0.0,Customer_619,City_619,UPI,0.0
+621,North,Andhra Pradesh,Electronics,Kids' Fashion,10008.14,14123.54,6,0.15,Customer_620,City_620,UPI,1.41
+622,South,Gujarat,Home & Kitchen,Decor,22112.6,-3292.83,6,0.2,Customer_621,City_621,Credit Card,-0.15
+623,East,Mizoram,Clothing,Skincare,14101.12,13101.6,3,0.1,Customer_622,City_622,UPI,0.93
+624,South,Odisha,Clothing,Women's Fashion,17531.12,5847.0,11,0.2,Customer_623,City_623,Credit Card,0.33
+625,North,Arunachal Pradesh,Beauty & Personal Care,Cookware,45406.18,1453.81,15,0.1,Customer_624,City_624,Credit Card,0.03
+626,Central,Nagaland,Clothing,Decor,20143.96,4984.73,13,0.05,Customer_625,City_625,UPI,0.25
+627,West,Himachal Pradesh,Electronics,Women's Fashion,43319.06,6479.78,13,0.15,Customer_626,City_626,Cash,0.15
+628,North,Uttar Pradesh,Electronics,Decor,10915.36,-1255.97,9,0.2,Customer_627,City_627,Credit Card,-0.12
+629,North,Andhra Pradesh,Home & Kitchen,Cookware,25099.5,5523.69,2,0.2,Customer_628,City_628,UPI,0.22
+630,North,Meghalaya,Home & Kitchen,Decor,26610.21,330.21,2,0.1,Customer_629,City_629,Debit Card,0.01
+631,West,Telangana,Electronics,Textbooks,37906.85,10504.04,10,0.15,Customer_630,City_630,UPI,0.28
+632,West,Rajasthan,Home & Kitchen,Haircare,30340.54,-309.87,7,0.05,Customer_631,City_631,Cash,-0.01
+633,North,Rajasthan,Beauty & Personal Care,Kids' Fashion,6646.83,-4804.48,15,0.1,Customer_632,City_632,UPI,-0.72
+634,Central,Tamil Nadu,Clothing,Textbooks,17523.46,8199.07,2,0.15,Customer_633,City_633,UPI,0.47
+635,Central,West Bengal,Clothing,Haircare,17962.88,-2389.94,9,0.05,Customer_634,City_634,Credit Card,-0.13
+636,East,Sikkim,Books,Non-Fiction,46669.0,-3627.23,15,0.1,Customer_635,City_635,Cash,-0.08
+637,Central,Goa,Home & Kitchen,Skincare,23317.62,11374.28,11,0.15,Customer_636,City_636,Credit Card,0.49
+638,East,Goa,Electronics,Fiction,11204.56,10598.87,19,0.15,Customer_637,City_637,Debit Card,0.95
+639,East,Sikkim,Beauty & Personal Care,Women's Fashion,36764.13,3660.44,18,0.05,Customer_638,City_638,Cash,0.1
+640,West,Nagaland,Books,Men's Fashion,43267.75,-3037.31,17,0.2,Customer_639,City_639,Debit Card,-0.07
+641,South,Haryana,Electronics,Laptops,24281.72,14180.86,14,0.0,Customer_640,City_640,Cash,0.58
+642,South,Chhattisgarh,Clothing,Haircare,29667.1,8111.11,12,0.0,Customer_641,City_641,Debit Card,0.27
+643,South,Mizoram,Electronics,Women's Fashion,16385.81,7620.1,10,0.1,Customer_642,City_642,Debit Card,0.47
+644,South,Uttarakhand,Home & Kitchen,Women's Fashion,7469.74,1993.43,14,0.15,Customer_643,City_643,Credit Card,0.27
+645,East,Haryana,Beauty & Personal Care,Televisions,42293.14,11956.65,8,0.05,Customer_644,City_644,Credit Card,0.28
+646,Central,Meghalaya,Clothing,Textbooks,909.95,12689.93,17,0.2,Customer_645,City_645,Cash,13.95
+647,North,Jammu & Kashmir,Clothing,Women's Fashion,42013.6,9754.95,6,0.05,Customer_646,City_646,Cash,0.23
+648,East,Uttar Pradesh,Beauty & Personal Care,Kids' Fashion,25272.58,12940.4,5,0.0,Customer_647,City_647,UPI,0.51
+649,North,Maharashtra,Beauty & Personal Care,Decor,15335.65,-4426.68,12,0.1,Customer_648,City_648,Debit Card,-0.29
+650,North,Manipur,Beauty & Personal Care,Decor,49910.89,14912.48,1,0.0,Customer_649,City_649,UPI,0.3
+651,East,Madhya Pradesh,Clothing,Laptops,47806.29,-4958.6,1,0.05,Customer_650,City_650,UPI,-0.1
+652,West,Nagaland,Books,Textbooks,17908.77,7327.78,9,0.15,Customer_651,City_651,Credit Card,0.41
+653,West,Gujarat,Electronics,Cosmetics,31995.42,199.68,12,0.05,Customer_652,City_652,Cash,0.01
+654,East,Uttar Pradesh,Clothing,Furniture,13831.75,-873.53,16,0.05,Customer_653,City_653,Debit Card,-0.06
+655,Central,Delhi,Electronics,Furniture,26714.52,-1510.47,14,0.05,Customer_654,City_654,Debit Card,-0.06
+656,South,Kerala,Clothing,Textbooks,34663.07,14079.45,15,0.1,Customer_655,City_655,Debit Card,0.41
+657,South,Kerala,Clothing,Skincare,29630.39,-3402.67,7,0.15,Customer_656,City_656,UPI,-0.11
+658,West,Meghalaya,Beauty & Personal Care,Haircare,31712.2,1328.78,6,0.1,Customer_657,City_657,Debit Card,0.04
+659,Central,Punjab,Electronics,Cookware,9328.53,10561.9,16,0.1,Customer_658,City_658,Debit Card,1.13
+660,East,Uttarakhand,Clothing,Haircare,43819.36,14469.59,4,0.05,Customer_659,City_659,Credit Card,0.33
+661,Central,Sikkim,Books,Cosmetics,2638.24,12284.39,16,0.05,Customer_660,City_660,UPI,4.66
+662,East,Delhi,Beauty & Personal Care,Cookware,33309.11,-259.42,3,0.0,Customer_661,City_661,Credit Card,-0.01
+663,North,Uttar Pradesh,Books,Audio,10924.15,11554.48,9,0.15,Customer_662,City_662,UPI,1.06
+664,Central,Tamil Nadu,Beauty & Personal Care,Decor,29165.02,-3320.94,2,0.15,Customer_663,City_663,Credit Card,-0.11
+665,Central,Kerala,Clothing,Skincare,34294.59,-1287.59,18,0.15,Customer_664,City_664,Debit Card,-0.04
+666,East,Punjab,Clothing,Decor,8761.6,11253.28,11,0.15,Customer_665,City_665,Debit Card,1.28
+667,Central,Chhattisgarh,Home & Kitchen,Haircare,26132.32,-3423.61,17,0.0,Customer_666,City_666,Debit Card,-0.13
+668,East,Punjab,Electronics,Textbooks,38640.23,-1726.58,5,0.15,Customer_667,City_667,UPI,-0.04
+669,West,Gujarat,Electronics,Cosmetics,38147.34,4911.58,11,0.1,Customer_668,City_668,UPI,0.13
+670,North,Tripura,Beauty & Personal Care,Furniture,16205.9,3210.44,17,0.05,Customer_669,City_669,Debit Card,0.2
+671,North,Bihar,Home & Kitchen,Women's Fashion,12324.73,4305.42,7,0.05,Customer_670,City_670,UPI,0.35
+672,South,Punjab,Home & Kitchen,Women's Fashion,3567.36,2372.82,10,0.2,Customer_671,City_671,Cash,0.67
+673,Central,Maharashtra,Books,Laptops,31711.98,1897.69,3,0.2,Customer_672,City_672,UPI,0.06
+674,South,Punjab,Books,Kids' Fashion,29576.11,14661.05,3,0.0,Customer_673,City_673,Debit Card,0.5
+675,West,Kerala,Home & Kitchen,Televisions,39862.83,8542.59,1,0.1,Customer_674,City_674,Credit Card,0.21
+676,North,Telangana,Clothing,Textbooks,21051.13,-3149.8,15,0.2,Customer_675,City_675,Debit Card,-0.15
+677,North,Madhya Pradesh,Home & Kitchen,Fiction,46414.81,13180.45,17,0.05,Customer_676,City_676,Cash,0.28
+678,Central,Maharashtra,Books,Mobiles,13860.75,2126.74,12,0.0,Customer_677,City_677,Credit Card,0.15
+679,South,Tamil Nadu,Clothing,Haircare,21889.27,11713.36,16,0.1,Customer_678,City_678,Credit Card,0.54
+680,East,Maharashtra,Beauty & Personal Care,Non-Fiction,40659.74,13222.06,4,0.05,Customer_679,City_679,Cash,0.33
+681,North,Chhattisgarh,Books,Fiction,22705.28,2379.75,4,0.0,Customer_680,City_680,Debit Card,0.1
+682,North,Haryana,Home & Kitchen,Cookware,37679.65,10149.71,6,0.1,Customer_681,City_681,Credit Card,0.27
+683,Central,Manipur,Beauty & Personal Care,Non-Fiction,15555.67,6629.63,4,0.05,Customer_682,City_682,Debit Card,0.43
+684,North,Andhra Pradesh,Home & Kitchen,Cosmetics,30765.13,4159.62,5,0.0,Customer_683,City_683,Debit Card,0.14
+685,South,Gujarat,Books,Televisions,15526.41,-1580.08,8,0.2,Customer_684,City_684,UPI,-0.1
+686,Central,Chhattisgarh,Clothing,Laptops,17480.21,-351.86,12,0.1,Customer_685,City_685,Debit Card,-0.02
+687,South,Telangana,Books,Haircare,39903.76,-1851.74,2,0.15,Customer_686,City_686,UPI,-0.05
+688,North,Bihar,Home & Kitchen,Women's Fashion,33203.21,-2435.21,4,0.1,Customer_687,City_687,UPI,-0.07
+689,East,Chhattisgarh,Beauty & Personal Care,Non-Fiction,698.28,8245.9,16,0.1,Customer_688,City_688,Cash,11.81
+690,Central,Gujarat,Electronics,Non-Fiction,41273.49,7495.47,19,0.05,Customer_689,City_689,Debit Card,0.18
+691,Central,Sikkim,Clothing,Laptops,19916.51,6800.96,19,0.15,Customer_690,City_690,Cash,0.34
+692,Central,Rajasthan,Books,Skincare,20924.5,8320.79,17,0.05,Customer_691,City_691,Debit Card,0.4
+693,Central,Tripura,Home & Kitchen,Cookware,40943.3,11077.54,11,0.0,Customer_692,City_692,Debit Card,0.27
+694,East,Bihar,Electronics,Laptops,42540.25,6483.08,5,0.2,Customer_693,City_693,Credit Card,0.15
+695,North,Delhi,Clothing,Televisions,35736.96,-189.25,14,0.0,Customer_694,City_694,Debit Card,-0.01
+696,Central,Haryana,Home & Kitchen,Cookware,8552.42,8024.24,19,0.1,Customer_695,City_695,Credit Card,0.94
+697,North,Telangana,Clothing,Mobiles,47229.27,7629.92,15,0.1,Customer_696,City_696,Cash,0.16
+698,Central,Arunachal Pradesh,Beauty & Personal Care,Skincare,34709.23,-4190.02,2,0.0,Customer_697,City_697,Credit Card,-0.12
+699,West,Delhi,Clothing,Mobiles,25329.15,5011.75,7,0.0,Customer_698,City_698,Debit Card,0.2
+700,West,Haryana,Books,Haircare,25014.53,13579.51,11,0.2,Customer_699,City_699,Debit Card,0.54
+701,East,Himachal Pradesh,Electronics,Haircare,12395.54,5107.25,3,0.05,Customer_700,City_700,UPI,0.41
+702,North,Karnataka,Clothing,Kids' Fashion,8502.42,6074.11,6,0.15,Customer_701,City_701,Credit Card,0.71
+703,Central,Uttarakhand,Electronics,Skincare,34143.28,905.69,2,0.0,Customer_702,City_702,UPI,0.03
+704,North,Bihar,Clothing,Men's Fashion,23348.48,11441.06,5,0.15,Customer_703,City_703,Cash,0.49
+705,Central,Tamil Nadu,Clothing,Televisions,18826.77,-311.95,6,0.15,Customer_704,City_704,UPI,-0.02
+706,East,Uttar Pradesh,Clothing,Cookware,2622.16,1810.78,4,0.05,Customer_705,City_705,Cash,0.69
+707,South,Tripura,Home & Kitchen,Televisions,41945.19,12059.41,7,0.1,Customer_706,City_706,UPI,0.29
+708,East,West Bengal,Clothing,Cookware,31640.15,-1589.23,16,0.1,Customer_707,City_707,Debit Card,-0.05
+709,South,Goa,Home & Kitchen,Audio,40013.45,2633.07,8,0.15,Customer_708,City_708,Credit Card,0.07
+710,South,Assam,Electronics,Textbooks,32132.09,9977.97,3,0.1,Customer_709,City_709,Debit Card,0.31
+711,East,Maharashtra,Electronics,Televisions,30791.9,11226.09,19,0.0,Customer_710,City_710,Credit Card,0.36
+712,South,Maharashtra,Clothing,Haircare,31515.51,9501.39,9,0.15,Customer_711,City_711,Debit Card,0.3
+713,South,Chhattisgarh,Clothing,Haircare,6425.87,11232.55,17,0.05,Customer_712,City_712,UPI,1.75
+714,Central,Delhi,Beauty & Personal Care,Decor,34590.97,1531.67,5,0.2,Customer_713,City_713,Cash,0.04
+715,East,Uttar Pradesh,Clothing,Mobiles,17275.99,-2883.25,16,0.1,Customer_714,City_714,UPI,-0.17
+716,North,Madhya Pradesh,Home & Kitchen,Decor,21474.69,1135.89,18,0.05,Customer_715,City_715,Debit Card,0.05
+717,North,Mizoram,Electronics,Cookware,7093.67,-2315.36,14,0.15,Customer_716,City_716,Debit Card,-0.33
+718,West,Uttarakhand,Beauty & Personal Care,Audio,36578.23,1420.9,3,0.0,Customer_717,City_717,Cash,0.04
+719,West,Madhya Pradesh,Clothing,Non-Fiction,29715.5,7201.17,16,0.05,Customer_718,City_718,Debit Card,0.24
+720,West,Punjab,Beauty & Personal Care,Televisions,1584.39,14581.97,2,0.2,Customer_719,City_719,Cash,9.2
+721,East,Maharashtra,Clothing,Cookware,24512.5,14304.05,5,0.05,Customer_720,City_720,Cash,0.58
+722,Central,Manipur,Beauty & Personal Care,Decor,24739.24,14694.56,6,0.1,Customer_721,City_721,UPI,0.59
+723,West,Gujarat,Beauty & Personal Care,Cosmetics,23363.79,748.17,7,0.0,Customer_722,City_722,Credit Card,0.03
+724,West,Chhattisgarh,Home & Kitchen,Textbooks,13899.12,4252.91,4,0.15,Customer_723,City_723,Debit Card,0.31
+725,West,Madhya Pradesh,Books,Haircare,40360.25,9887.66,16,0.05,Customer_724,City_724,Credit Card,0.24
+726,East,Himachal Pradesh,Home & Kitchen,Women's Fashion,40325.85,-2777.8,15,0.0,Customer_725,City_725,Debit Card,-0.07
+727,East,Andhra Pradesh,Beauty & Personal Care,Laptops,33151.93,455.23,9,0.05,Customer_726,City_726,UPI,0.01
+728,West,Odisha,Books,Women's Fashion,11037.39,-1372.25,19,0.2,Customer_727,City_727,Debit Card,-0.12
+729,West,Bihar,Clothing,Decor,26445.63,1223.56,1,0.05,Customer_728,City_728,UPI,0.05
+730,Central,Sikkim,Clothing,Televisions,16011.57,3455.55,11,0.05,Customer_729,City_729,UPI,0.22
+731,Central,Telangana,Clothing,Kids' Fashion,18440.97,14732.78,4,0.2,Customer_730,City_730,UPI,0.8
+732,West,Haryana,Electronics,Laptops,22830.93,2658.65,13,0.0,Customer_731,City_731,Credit Card,0.12
+733,Central,West Bengal,Clothing,Laptops,47172.52,-483.75,7,0.0,Customer_732,City_732,Cash,-0.01
+734,Central,Nagaland,Electronics,Furniture,11768.59,6790.06,15,0.05,Customer_733,City_733,UPI,0.58
+735,South,Meghalaya,Home & Kitchen,Cosmetics,3754.08,-2646.82,2,0.2,Customer_734,City_734,Credit Card,-0.71
+736,East,Arunachal Pradesh,Beauty & Personal Care,Kids' Fashion,12683.48,12895.99,1,0.15,Customer_735,City_735,Cash,1.02
+737,North,Rajasthan,Books,Haircare,43597.43,-4683.82,6,0.05,Customer_736,City_736,Credit Card,-0.11
+738,South,West Bengal,Books,Cookware,22100.37,13916.7,18,0.0,Customer_737,City_737,Debit Card,0.63
+739,South,Telangana,Beauty & Personal Care,Mobiles,35533.68,14010.1,10,0.0,Customer_738,City_738,Credit Card,0.39
+740,East,Madhya Pradesh,Books,Laptops,21814.77,-3749.94,17,0.2,Customer_739,City_739,Debit Card,-0.17
+741,North,Jammu & Kashmir,Electronics,Televisions,18978.36,-3235.97,17,0.2,Customer_740,City_740,Cash,-0.17
+742,North,Rajasthan,Electronics,Cookware,30761.63,-2548.96,1,0.15,Customer_741,City_741,Credit Card,-0.08
+743,West,Jharkhand,Electronics,Fiction,23190.61,-3844.34,13,0.0,Customer_742,City_742,Debit Card,-0.17
+744,East,Haryana,Books,Non-Fiction,26777.37,6846.15,3,0.15,Customer_743,City_743,Credit Card,0.26
+745,North,Arunachal Pradesh,Home & Kitchen,Skincare,24008.31,479.11,13,0.05,Customer_744,City_744,Cash,0.02
+746,Central,Tripura,Beauty & Personal Care,Fiction,44914.36,9720.57,15,0.2,Customer_745,City_745,Cash,0.22
+747,South,Telangana,Electronics,Mobiles,12382.69,11546.09,15,0.0,Customer_746,City_746,Credit Card,0.93
+748,West,Jharkhand,Electronics,Mobiles,31725.6,-3297.4,15,0.15,Customer_747,City_747,Credit Card,-0.1
+749,West,Karnataka,Home & Kitchen,Laptops,34148.79,5466.96,4,0.05,Customer_748,City_748,UPI,0.16
+750,North,Odisha,Electronics,Fiction,6236.13,1687.11,18,0.0,Customer_749,City_749,UPI,0.27
+751,North,Madhya Pradesh,Home & Kitchen,Non-Fiction,29834.32,4778.99,7,0.0,Customer_750,City_750,Cash,0.16
+752,Central,Odisha,Electronics,Women's Fashion,13528.57,13765.03,16,0.05,Customer_751,City_751,Credit Card,1.02
+753,North,Chhattisgarh,Books,Men's Fashion,34639.04,12883.88,7,0.05,Customer_752,City_752,Debit Card,0.37
+754,West,Bihar,Beauty & Personal Care,Decor,41214.59,10992.9,11,0.1,Customer_753,City_753,Credit Card,0.27
+755,West,Uttar Pradesh,Books,Fiction,18079.79,4517.9,8,0.0,Customer_754,City_754,UPI,0.25
+756,North,Odisha,Home & Kitchen,Cookware,40391.87,8575.48,16,0.05,Customer_755,City_755,Cash,0.21
+757,West,Rajasthan,Home & Kitchen,Mobiles,29956.68,10218.64,4,0.2,Customer_756,City_756,Debit Card,0.34
+758,West,Kerala,Books,Men's Fashion,36282.85,4723.37,2,0.05,Customer_757,City_757,Credit Card,0.13
+759,North,Chhattisgarh,Home & Kitchen,Haircare,2612.83,11821.53,6,0.2,Customer_758,City_758,Debit Card,4.52
+760,West,Uttar Pradesh,Books,Skincare,22417.16,11818.33,1,0.15,Customer_759,City_759,Cash,0.53
+761,South,Maharashtra,Clothing,Non-Fiction,10637.6,14350.59,3,0.0,Customer_760,City_760,Debit Card,1.35
+762,South,Manipur,Clothing,Furniture,45227.04,962.16,18,0.2,Customer_761,City_761,Credit Card,0.02
+763,North,Jharkhand,Electronics,Men's Fashion,8705.88,6671.35,14,0.05,Customer_762,City_762,Cash,0.77
+764,Central,Meghalaya,Clothing,Textbooks,3401.02,11534.22,2,0.15,Customer_763,City_763,Debit Card,3.39
+765,North,Assam,Beauty & Personal Care,Skincare,7917.87,527.73,3,0.05,Customer_764,City_764,Cash,0.07
+766,North,Odisha,Home & Kitchen,Decor,46731.41,3846.35,14,0.05,Customer_765,City_765,Credit Card,0.08
+767,East,Telangana,Books,Textbooks,6408.25,10424.39,13,0.0,Customer_766,City_766,UPI,1.63
+768,North,Maharashtra,Books,Women's Fashion,27111.91,13618.05,17,0.15,Customer_767,City_767,Credit Card,0.5
+769,Central,Meghalaya,Home & Kitchen,Cookware,27507.51,10109.62,8,0.05,Customer_768,City_768,UPI,0.37
+770,East,Punjab,Electronics,Non-Fiction,28151.7,10654.46,14,0.15,Customer_769,City_769,UPI,0.38
+771,Central,Jharkhand,Beauty & Personal Care,Cookware,18776.18,-2387.66,5,0.2,Customer_770,City_770,UPI,-0.13
+772,South,Karnataka,Home & Kitchen,Non-Fiction,29242.4,13531.79,8,0.15,Customer_771,City_771,Cash,0.46
+773,Central,Goa,Clothing,Audio,45377.26,5524.59,1,0.15,Customer_772,City_772,UPI,0.12
+774,Central,Chhattisgarh,Beauty & Personal Care,Fiction,22146.59,8826.58,11,0.0,Customer_773,City_773,Credit Card,0.4
+775,Central,Madhya Pradesh,Home & Kitchen,Haircare,1204.23,2813.52,14,0.05,Customer_774,City_774,UPI,2.34
+776,North,Uttar Pradesh,Beauty & Personal Care,Furniture,23288.16,4737.44,18,0.05,Customer_775,City_775,Credit Card,0.2
+777,North,Goa,Books,Decor,25030.76,11454.02,9,0.1,Customer_776,City_776,Debit Card,0.46
+778,Central,Himachal Pradesh,Beauty & Personal Care,Non-Fiction,42722.41,4634.41,6,0.0,Customer_777,City_777,Credit Card,0.11
+779,Central,Nagaland,Beauty & Personal Care,Fiction,38107.25,11323.38,15,0.05,Customer_778,City_778,Cash,0.3
+780,East,Andhra Pradesh,Home & Kitchen,Men's Fashion,12910.93,14212.71,12,0.05,Customer_779,City_779,Cash,1.1
+781,Central,Goa,Home & Kitchen,Laptops,29406.65,12715.81,17,0.05,Customer_780,City_780,UPI,0.43
+782,South,Haryana,Electronics,Men's Fashion,45513.28,-3830.07,13,0.2,Customer_781,City_781,Debit Card,-0.08
+783,West,Arunachal Pradesh,Clothing,Women's Fashion,37857.15,14773.19,3,0.1,Customer_782,City_782,Cash,0.39
+784,South,Rajasthan,Beauty & Personal Care,Kids' Fashion,40746.83,12048.75,6,0.0,Customer_783,City_783,Debit Card,0.3
+785,East,Odisha,Electronics,Decor,30452.73,2532.53,9,0.05,Customer_784,City_784,UPI,0.08
+786,East,Goa,Beauty & Personal Care,Mobiles,18158.37,12821.26,14,0.05,Customer_785,City_785,UPI,0.71
+787,South,Gujarat,Clothing,Men's Fashion,12389.73,13762.51,17,0.0,Customer_786,City_786,UPI,1.11
+788,North,Goa,Home & Kitchen,Fiction,14880.39,9597.59,19,0.15,Customer_787,City_787,Debit Card,0.64
+789,East,Kerala,Beauty & Personal Care,Decor,40557.67,-2624.0,18,0.15,Customer_788,City_788,Debit Card,-0.06
+790,Central,Goa,Beauty & Personal Care,Kids' Fashion,33706.39,11955.17,16,0.05,Customer_789,City_789,Cash,0.35
+791,North,Bihar,Home & Kitchen,Skincare,48076.17,10804.07,5,0.1,Customer_790,City_790,Credit Card,0.22
+792,South,Rajasthan,Clothing,Mobiles,30539.79,12829.97,13,0.15,Customer_791,City_791,UPI,0.42
+793,North,Rajasthan,Books,Cookware,27330.69,7331.14,16,0.2,Customer_792,City_792,Cash,0.27
+794,North,Madhya Pradesh,Books,Audio,31587.53,7720.88,13,0.2,Customer_793,City_793,Credit Card,0.24
+795,East,Bihar,Books,Kids' Fashion,19412.89,3107.63,3,0.2,Customer_794,City_794,Debit Card,0.16
+796,East,Maharashtra,Home & Kitchen,Haircare,30690.08,2566.88,14,0.05,Customer_795,City_795,UPI,0.08
+797,East,Andhra Pradesh,Beauty & Personal Care,Textbooks,21731.19,-1054.89,3,0.2,Customer_796,City_796,Debit Card,-0.05
+798,Central,Maharashtra,Books,Decor,19711.31,5214.11,11,0.15,Customer_797,City_797,Debit Card,0.26
+799,South,Haryana,Beauty & Personal Care,Women's Fashion,16889.34,1780.79,5,0.1,Customer_798,City_798,UPI,0.11
+800,West,Kerala,Clothing,Haircare,36436.85,10813.37,1,0.0,Customer_799,City_799,Cash,0.3
+801,West,Tamil Nadu,Books,Cookware,29248.53,-33.46,9,0.2,Customer_800,City_800,Credit Card,-0.0
+802,Central,Uttar Pradesh,Beauty & Personal Care,Televisions,16438.12,9463.54,7,0.0,Customer_801,City_801,Cash,0.58
+803,Central,Uttar Pradesh,Electronics,Kids' Fashion,8285.89,12839.13,2,0.0,Customer_802,City_802,UPI,1.55
+804,West,Haryana,Beauty & Personal Care,Televisions,2327.11,6834.49,11,0.1,Customer_803,City_803,Credit Card,2.94
+805,South,West Bengal,Electronics,Cookware,15774.24,10029.28,3,0.1,Customer_804,City_804,Credit Card,0.64
+806,Central,Punjab,Clothing,Haircare,7248.46,7691.43,6,0.1,Customer_805,City_805,Cash,1.06
+807,West,Odisha,Electronics,Mobiles,3061.66,112.25,18,0.2,Customer_806,City_806,Cash,0.04
+808,East,Madhya Pradesh,Home & Kitchen,Men's Fashion,22340.4,-1936.02,4,0.0,Customer_807,City_807,Cash,-0.09
+809,North,Madhya Pradesh,Clothing,Mobiles,31337.18,-18.09,18,0.2,Customer_808,City_808,Debit Card,-0.0
+810,West,Tamil Nadu,Books,Kids' Fashion,18590.51,533.6,2,0.15,Customer_809,City_809,Debit Card,0.03
+811,South,Madhya Pradesh,Home & Kitchen,Mobiles,49001.64,6959.48,15,0.15,Customer_810,City_810,Credit Card,0.14
+812,North,Chhattisgarh,Electronics,Cosmetics,31000.3,590.42,11,0.05,Customer_811,City_811,Debit Card,0.02
+813,East,Karnataka,Beauty & Personal Care,Audio,43722.27,-216.49,19,0.15,Customer_812,City_812,Debit Card,-0.0
+814,Central,Meghalaya,Home & Kitchen,Fiction,46679.11,13694.92,7,0.0,Customer_813,City_813,Cash,0.29
+815,North,Maharashtra,Home & Kitchen,Men's Fashion,34092.01,4924.11,19,0.1,Customer_814,City_814,Cash,0.14
+816,Central,Tripura,Clothing,Laptops,41819.87,5122.31,19,0.1,Customer_815,City_815,UPI,0.12
+817,West,Kerala,Electronics,Decor,11958.96,9112.2,14,0.1,Customer_816,City_816,Cash,0.76
+818,South,Delhi,Electronics,Decor,9451.82,10188.32,6,0.0,Customer_817,City_817,UPI,1.08
+819,Central,Karnataka,Clothing,Cosmetics,24319.85,8977.64,6,0.0,Customer_818,City_818,Cash,0.37
+820,East,Mizoram,Electronics,Textbooks,24440.63,-2441.11,13,0.05,Customer_819,City_819,UPI,-0.1
+821,Central,Assam,Home & Kitchen,Haircare,32969.94,-2969.32,19,0.0,Customer_820,City_820,UPI,-0.09
+822,West,Himachal Pradesh,Beauty & Personal Care,Kids' Fashion,40019.57,12559.3,14,0.05,Customer_821,City_821,Credit Card,0.31
+823,South,Madhya Pradesh,Home & Kitchen,Furniture,34588.97,14077.22,12,0.1,Customer_822,City_822,UPI,0.41
+824,East,Himachal Pradesh,Home & Kitchen,Mobiles,9497.4,5205.5,18,0.0,Customer_823,City_823,Credit Card,0.55
+825,East,Jharkhand,Home & Kitchen,Skincare,1700.06,5117.1,10,0.0,Customer_824,City_824,Cash,3.01
+826,North,Haryana,Beauty & Personal Care,Decor,43176.49,-2659.61,8,0.15,Customer_825,City_825,Debit Card,-0.06
+827,Central,Jammu & Kashmir,Beauty & Personal Care,Non-Fiction,17170.92,-1806.6,19,0.2,Customer_826,City_826,Cash,-0.11
+828,North,Telangana,Books,Furniture,10033.88,6897.75,12,0.1,Customer_827,City_827,Debit Card,0.69
+829,West,Kerala,Electronics,Laptops,6130.93,14803.62,8,0.1,Customer_828,City_828,UPI,2.41
+830,North,Punjab,Electronics,Furniture,32924.66,-754.16,2,0.0,Customer_829,City_829,Cash,-0.02
+831,North,Madhya Pradesh,Books,Audio,5622.08,-720.38,1,0.15,Customer_830,City_830,Cash,-0.13
+832,West,Kerala,Home & Kitchen,Cosmetics,16110.05,9958.63,18,0.05,Customer_831,City_831,Debit Card,0.62
+833,South,Uttar Pradesh,Home & Kitchen,Audio,29319.28,-1832.04,3,0.05,Customer_832,City_832,Cash,-0.06
+834,Central,Tamil Nadu,Clothing,Men's Fashion,30437.19,9197.11,14,0.1,Customer_833,City_833,Credit Card,0.3
+835,West,Arunachal Pradesh,Electronics,Skincare,9883.3,-4303.02,14,0.15,Customer_834,City_834,Debit Card,-0.44
+836,East,Uttarakhand,Beauty & Personal Care,Haircare,8608.95,-850.06,3,0.2,Customer_835,City_835,Cash,-0.1
+837,East,Andhra Pradesh,Home & Kitchen,Textbooks,38592.17,-1223.56,18,0.1,Customer_836,City_836,UPI,-0.03
+838,North,Odisha,Clothing,Skincare,49390.47,9603.93,10,0.05,Customer_837,City_837,UPI,0.19
+839,North,Jammu & Kashmir,Books,Decor,27336.14,9491.18,6,0.15,Customer_838,City_838,Debit Card,0.35
+840,Central,Nagaland,Books,Kids' Fashion,23376.49,-1250.37,11,0.1,Customer_839,City_839,Debit Card,-0.05
+841,East,Maharashtra,Electronics,Fiction,13683.34,7763.24,10,0.15,Customer_840,City_840,Debit Card,0.57
+842,Central,Bihar,Beauty & Personal Care,Fiction,19781.83,-2069.43,5,0.0,Customer_841,City_841,UPI,-0.1
+843,North,Odisha,Electronics,Women's Fashion,38783.05,12465.78,5,0.05,Customer_842,City_842,Debit Card,0.32
+844,Central,Haryana,Books,Audio,39706.67,-2398.48,7,0.15,Customer_843,City_843,Credit Card,-0.06
+845,East,Gujarat,Clothing,Cosmetics,37612.01,-312.51,16,0.0,Customer_844,City_844,Cash,-0.01
+846,South,Jharkhand,Clothing,Kids' Fashion,47257.63,3406.0,8,0.1,Customer_845,City_845,Credit Card,0.07
+847,West,Bihar,Clothing,Men's Fashion,24134.26,5150.44,12,0.1,Customer_846,City_846,UPI,0.21
+848,North,Uttar Pradesh,Books,Cookware,29953.38,1176.99,18,0.1,Customer_847,City_847,Cash,0.04
+849,East,Chhattisgarh,Electronics,Decor,31875.56,4621.54,6,0.15,Customer_848,City_848,Debit Card,0.14
+850,Central,Manipur,Home & Kitchen,Cosmetics,41684.09,873.86,19,0.05,Customer_849,City_849,UPI,0.02
+851,North,Goa,Clothing,Furniture,24547.61,-3052.83,19,0.0,Customer_850,City_850,UPI,-0.12
+852,North,Mizoram,Beauty & Personal Care,Men's Fashion,20544.61,40.85,16,0.2,Customer_851,City_851,UPI,0.0
+853,North,Haryana,Home & Kitchen,Cosmetics,41184.56,2159.66,18,0.2,Customer_852,City_852,Cash,0.05
+854,Central,Arunachal Pradesh,Electronics,Cookware,4797.74,-4663.41,6,0.0,Customer_853,City_853,Debit Card,-0.97
+855,West,Jammu & Kashmir,Beauty & Personal Care,Cookware,9203.96,2420.95,13,0.2,Customer_854,City_854,Cash,0.26
+856,North,Haryana,Books,Laptops,3254.81,13013.1,1,0.0,Customer_855,City_855,Credit Card,4.0
+857,North,Meghalaya,Beauty & Personal Care,Skincare,20210.32,-4060.86,10,0.0,Customer_856,City_856,Debit Card,-0.2
+858,South,Himachal Pradesh,Beauty & Personal Care,Decor,21646.98,-3909.35,7,0.1,Customer_857,City_857,Debit Card,-0.18
+859,North,Andhra Pradesh,Books,Laptops,1592.34,13449.41,19,0.05,Customer_858,City_858,Debit Card,8.45
+860,North,Punjab,Electronics,Televisions,39147.83,-2496.83,13,0.15,Customer_859,City_859,Cash,-0.06
+861,South,Jammu & Kashmir,Clothing,Cookware,10993.79,12809.57,6,0.0,Customer_860,City_860,Credit Card,1.17
+862,West,Delhi,Home & Kitchen,Cosmetics,20852.46,3365.84,9,0.05,Customer_861,City_861,Debit Card,0.16
+863,East,Delhi,Clothing,Televisions,32547.35,-3228.18,15,0.05,Customer_862,City_862,Cash,-0.1
+864,North,Madhya Pradesh,Beauty & Personal Care,Kids' Fashion,11048.58,-1178.05,14,0.1,Customer_863,City_863,Credit Card,-0.11
+865,South,Meghalaya,Beauty & Personal Care,Cookware,30179.67,4533.76,17,0.05,Customer_864,City_864,Credit Card,0.15
+866,South,Maharashtra,Beauty & Personal Care,Textbooks,41877.04,9876.66,19,0.1,Customer_865,City_865,Credit Card,0.24
+867,North,Gujarat,Books,Mobiles,26519.91,6264.68,5,0.2,Customer_866,City_866,Credit Card,0.24
+868,West,Andhra Pradesh,Books,Mobiles,31920.76,13836.08,12,0.15,Customer_867,City_867,Credit Card,0.43
+869,North,Meghalaya,Clothing,Cookware,36141.27,13470.92,10,0.15,Customer_868,City_868,Debit Card,0.37
+870,North,Arunachal Pradesh,Beauty & Personal Care,Cookware,12979.58,1328.16,1,0.05,Customer_869,City_869,Cash,0.1
+871,North,Jharkhand,Clothing,Cookware,44342.23,5935.34,18,0.15,Customer_870,City_870,Cash,0.13
+872,South,Tamil Nadu,Books,Kids' Fashion,5728.63,13499.52,2,0.0,Customer_871,City_871,UPI,2.36
+873,West,Haryana,Electronics,Fiction,3668.3,854.89,10,0.1,Customer_872,City_872,Credit Card,0.23
+874,Central,Punjab,Clothing,Kids' Fashion,6503.92,11688.12,16,0.1,Customer_873,City_873,Cash,1.8
+875,West,Punjab,Home & Kitchen,Cookware,35126.24,2427.83,4,0.2,Customer_874,City_874,Debit Card,0.07
+876,Central,Himachal Pradesh,Beauty & Personal Care,Televisions,1286.35,-4509.22,5,0.2,Customer_875,City_875,Cash,-3.51
+877,Central,Tripura,Beauty & Personal Care,Laptops,41322.29,-2628.41,16,0.2,Customer_876,City_876,Cash,-0.06
+878,Central,Bihar,Books,Skincare,49455.52,-85.14,10,0.0,Customer_877,City_877,Cash,-0.0
+879,East,Punjab,Home & Kitchen,Women's Fashion,19667.69,581.14,5,0.2,Customer_878,City_878,Credit Card,0.03
+880,South,Odisha,Books,Men's Fashion,34876.68,-2493.05,7,0.05,Customer_879,City_879,Credit Card,-0.07
+881,East,Delhi,Clothing,Textbooks,38076.87,1655.95,12,0.15,Customer_880,City_880,Debit Card,0.04
+882,West,Haryana,Electronics,Men's Fashion,24425.25,7870.81,15,0.0,Customer_881,City_881,UPI,0.32
+883,Central,Uttarakhand,Books,Furniture,30128.47,-4192.55,12,0.05,Customer_882,City_882,Cash,-0.14
+884,North,Meghalaya,Clothing,Kids' Fashion,1294.85,6332.97,10,0.15,Customer_883,City_883,Credit Card,4.89
+885,West,Tamil Nadu,Beauty & Personal Care,Televisions,23577.9,2504.87,16,0.0,Customer_884,City_884,Credit Card,0.11
+886,North,Sikkim,Beauty & Personal Care,Textbooks,39549.97,-4916.95,4,0.2,Customer_885,City_885,Credit Card,-0.12
+887,South,Rajasthan,Clothing,Televisions,15739.48,-1677.72,3,0.0,Customer_886,City_886,Cash,-0.11
+888,Central,Tripura,Electronics,Furniture,3876.06,11147.89,2,0.1,Customer_887,City_887,Cash,2.88
+889,East,Jharkhand,Electronics,Haircare,35530.18,7487.63,18,0.05,Customer_888,City_888,Debit Card,0.21
+890,West,Karnataka,Beauty & Personal Care,Furniture,30027.81,1290.15,3,0.1,Customer_889,City_889,Cash,0.04
+891,East,Tamil Nadu,Home & Kitchen,Fiction,10564.82,8148.15,12,0.15,Customer_890,City_890,Credit Card,0.77
+892,West,Himachal Pradesh,Home & Kitchen,Audio,43446.39,5725.79,16,0.0,Customer_891,City_891,Debit Card,0.13
+893,South,Delhi,Beauty & Personal Care,Cosmetics,6329.71,1776.42,18,0.15,Customer_892,City_892,Cash,0.28
+894,West,Jammu & Kashmir,Home & Kitchen,Skincare,5257.5,3632.42,19,0.15,Customer_893,City_893,Cash,0.69
+895,West,Maharashtra,Books,Skincare,28691.63,11902.55,15,0.1,Customer_894,City_894,Cash,0.41
+896,Central,West Bengal,Electronics,Televisions,19482.46,3590.38,5,0.1,Customer_895,City_895,Credit Card,0.18
+897,North,Meghalaya,Books,Cosmetics,42215.86,-2875.82,17,0.05,Customer_896,City_896,Credit Card,-0.07
+898,Central,Kerala,Clothing,Furniture,35932.25,-4181.09,14,0.1,Customer_897,City_897,Credit Card,-0.12
+899,North,Manipur,Electronics,Furniture,23020.06,12511.67,18,0.15,Customer_898,City_898,Cash,0.54
+900,Central,Maharashtra,Beauty & Personal Care,Women's Fashion,6132.48,-2386.16,18,0.15,Customer_899,City_899,Debit Card,-0.39
+901,Central,Nagaland,Home & Kitchen,Decor,19845.49,4589.92,14,0.1,Customer_900,City_900,Debit Card,0.23
+902,North,West Bengal,Clothing,Laptops,44574.99,13927.29,10,0.05,Customer_901,City_901,Debit Card,0.31
+903,East,Manipur,Clothing,Cookware,9029.73,-281.01,11,0.05,Customer_902,City_902,Credit Card,-0.03
+904,South,Andhra Pradesh,Clothing,Audio,38137.24,10621.06,12,0.0,Customer_903,City_903,UPI,0.28
+905,South,Rajasthan,Beauty & Personal Care,Textbooks,14827.23,-3311.27,3,0.0,Customer_904,City_904,Cash,-0.22
+906,South,Rajasthan,Home & Kitchen,Furniture,35308.38,12243.96,2,0.15,Customer_905,City_905,Cash,0.35
+907,North,Telangana,Home & Kitchen,Non-Fiction,48126.49,-2556.55,15,0.0,Customer_906,City_906,Debit Card,-0.05
+908,North,Punjab,Home & Kitchen,Televisions,21173.88,4577.76,16,0.2,Customer_907,City_907,Debit Card,0.22
+909,South,Sikkim,Home & Kitchen,Furniture,22823.42,10899.37,7,0.2,Customer_908,City_908,Debit Card,0.48
+910,West,Goa,Clothing,Cosmetics,36395.19,4257.57,17,0.2,Customer_909,City_909,Credit Card,0.12
+911,North,Telangana,Clothing,Kids' Fashion,15893.52,9770.85,8,0.1,Customer_910,City_910,UPI,0.61
+912,East,Madhya Pradesh,Home & Kitchen,Skincare,9013.26,5222.94,19,0.1,Customer_911,City_911,Debit Card,0.58
+913,West,West Bengal,Home & Kitchen,Textbooks,43552.27,8054.05,6,0.05,Customer_912,City_912,Debit Card,0.18
+914,East,Gujarat,Books,Fiction,21118.28,-2422.87,17,0.2,Customer_913,City_913,Cash,-0.11
+915,Central,Maharashtra,Clothing,Women's Fashion,30855.01,9708.15,13,0.15,Customer_914,City_914,UPI,0.31
+916,North,Jammu & Kashmir,Home & Kitchen,Fiction,38864.44,2376.81,18,0.1,Customer_915,City_915,UPI,0.06
+917,North,Odisha,Home & Kitchen,Fiction,3973.16,11873.42,14,0.0,Customer_916,City_916,Credit Card,2.99
+918,South,Bihar,Electronics,Skincare,34286.99,6746.83,17,0.2,Customer_917,City_917,UPI,0.2
+919,South,Bihar,Electronics,Decor,48322.81,7719.42,18,0.15,Customer_918,City_918,Cash,0.16
+920,East,Andhra Pradesh,Clothing,Televisions,21260.15,11290.05,4,0.1,Customer_919,City_919,UPI,0.53
+921,East,Tripura,Books,Haircare,21098.11,1775.97,8,0.05,Customer_920,City_920,Debit Card,0.08
+922,Central,West Bengal,Home & Kitchen,Men's Fashion,41059.4,5949.08,14,0.2,Customer_921,City_921,Debit Card,0.14
+923,East,Tripura,Books,Skincare,3009.07,8691.57,6,0.15,Customer_922,City_922,Credit Card,2.89
+924,Central,Andhra Pradesh,Beauty & Personal Care,Fiction,20935.65,-3167.47,16,0.15,Customer_923,City_923,Cash,-0.15
+925,West,Sikkim,Electronics,Fiction,37798.44,11070.07,1,0.2,Customer_924,City_924,Credit Card,0.29
+926,West,Assam,Beauty & Personal Care,Cosmetics,39748.09,-4674.35,11,0.1,Customer_925,City_925,UPI,-0.12
+927,West,Himachal Pradesh,Books,Non-Fiction,1594.04,-812.19,4,0.0,Customer_926,City_926,UPI,-0.51
+928,East,Himachal Pradesh,Electronics,Non-Fiction,29885.82,5997.22,1,0.2,Customer_927,City_927,UPI,0.2
+929,Central,Haryana,Home & Kitchen,Haircare,16216.14,11545.48,16,0.2,Customer_928,City_928,Cash,0.71
+930,South,West Bengal,Electronics,Kids' Fashion,28229.49,2639.69,4,0.2,Customer_929,City_929,UPI,0.09
+931,Central,Jammu & Kashmir,Clothing,Haircare,38858.26,10112.04,4,0.0,Customer_930,City_930,Credit Card,0.26
+932,North,Uttar Pradesh,Books,Textbooks,42890.35,7843.06,16,0.0,Customer_931,City_931,Cash,0.18
+933,East,Tamil Nadu,Books,Cosmetics,36013.23,6939.26,17,0.2,Customer_932,City_932,UPI,0.19
+934,East,Rajasthan,Electronics,Audio,11845.53,7839.15,16,0.2,Customer_933,City_933,UPI,0.66
+935,North,Madhya Pradesh,Home & Kitchen,Laptops,21093.66,14889.2,7,0.15,Customer_934,City_934,Credit Card,0.71
+936,West,Rajasthan,Beauty & Personal Care,Women's Fashion,1113.38,7101.95,2,0.05,Customer_935,City_935,Credit Card,6.38
+937,South,Andhra Pradesh,Home & Kitchen,Men's Fashion,36755.33,986.4,17,0.05,Customer_936,City_936,UPI,0.03
+938,North,Meghalaya,Beauty & Personal Care,Cosmetics,1301.72,1798.98,12,0.0,Customer_937,City_937,Debit Card,1.38
+939,West,Manipur,Electronics,Women's Fashion,8631.31,14371.57,19,0.1,Customer_938,City_938,Debit Card,1.67
+940,Central,Jammu & Kashmir,Electronics,Textbooks,47894.32,4560.98,1,0.2,Customer_939,City_939,UPI,0.1
+941,Central,Haryana,Electronics,Audio,14930.88,12890.2,19,0.05,Customer_940,City_940,Credit Card,0.86
+942,East,Uttar Pradesh,Electronics,Audio,11918.82,4805.51,19,0.1,Customer_941,City_941,UPI,0.4
+943,North,Rajasthan,Clothing,Cosmetics,25402.6,13842.83,12,0.1,Customer_942,City_942,Credit Card,0.54
+944,East,Karnataka,Beauty & Personal Care,Haircare,7777.21,7689.44,4,0.2,Customer_943,City_943,Credit Card,0.99
+945,West,Assam,Electronics,Decor,5951.52,4778.94,12,0.0,Customer_944,City_944,Debit Card,0.8
+946,Central,Mizoram,Books,Furniture,31297.49,-1170.41,10,0.15,Customer_945,City_945,Cash,-0.04
+947,North,Jharkhand,Clothing,Skincare,1517.04,-2166.88,8,0.0,Customer_946,City_946,UPI,-1.43
+948,Central,Manipur,Beauty & Personal Care,Non-Fiction,37299.46,10373.26,12,0.0,Customer_947,City_947,UPI,0.28
+949,North,Bihar,Electronics,Women's Fashion,13054.13,3761.32,10,0.0,Customer_948,City_948,Debit Card,0.29
+950,Central,Maharashtra,Books,Cookware,35116.59,12919.59,11,0.05,Customer_949,City_949,Cash,0.37
+951,East,Odisha,Books,Textbooks,27384.98,-2821.2,3,0.2,Customer_950,City_950,UPI,-0.1
+952,North,Madhya Pradesh,Electronics,Haircare,32327.97,7271.63,5,0.1,Customer_951,City_951,Credit Card,0.22
+953,North,Mizoram,Books,Cosmetics,26754.73,10737.57,18,0.0,Customer_952,City_952,UPI,0.4
+954,North,Tripura,Home & Kitchen,Cookware,9334.27,14078.35,8,0.1,Customer_953,City_953,Cash,1.51
+955,North,Manipur,Electronics,Textbooks,29938.66,7340.24,9,0.15,Customer_954,City_954,Cash,0.25
+956,East,Delhi,Books,Decor,16701.73,3577.15,19,0.1,Customer_955,City_955,Debit Card,0.21
+957,Central,Madhya Pradesh,Clothing,Televisions,31963.6,14206.63,3,0.15,Customer_956,City_956,Debit Card,0.44
+958,West,Madhya Pradesh,Clothing,Mobiles,12366.95,369.89,10,0.1,Customer_957,City_957,Debit Card,0.03
+959,Central,Tamil Nadu,Electronics,Skincare,28460.46,-4339.22,6,0.2,Customer_958,City_958,Cash,-0.15
+960,South,Maharashtra,Electronics,Non-Fiction,2694.46,4836.39,9,0.0,Customer_959,City_959,UPI,1.79
+961,North,Andhra Pradesh,Home & Kitchen,Skincare,35589.95,-2800.17,14,0.05,Customer_960,City_960,Cash,-0.08
+962,North,Tripura,Beauty & Personal Care,Kids' Fashion,25131.11,12964.3,5,0.1,Customer_961,City_961,UPI,0.52
+963,West,Haryana,Home & Kitchen,Cookware,927.74,1931.63,18,0.05,Customer_962,City_962,UPI,2.08
+964,West,Rajasthan,Home & Kitchen,Women's Fashion,5470.72,2962.5,12,0.05,Customer_963,City_963,Credit Card,0.54
+965,North,Chhattisgarh,Books,Fiction,1755.04,3509.71,6,0.05,Customer_964,City_964,UPI,2.0
+966,East,Mizoram,Home & Kitchen,Skincare,14092.35,9798.38,11,0.2,Customer_965,City_965,Debit Card,0.7
+967,Central,Haryana,Electronics,Women's Fashion,16002.53,6839.61,14,0.0,Customer_966,City_966,Debit Card,0.43
+968,East,Mizoram,Books,Non-Fiction,40500.97,-836.67,9,0.05,Customer_967,City_967,Credit Card,-0.02
+969,North,Maharashtra,Home & Kitchen,Cosmetics,18588.98,14379.16,2,0.2,Customer_968,City_968,Credit Card,0.77
+970,East,Gujarat,Home & Kitchen,Audio,46756.92,-3833.92,4,0.05,Customer_969,City_969,Debit Card,-0.08
+971,West,Karnataka,Clothing,Furniture,4711.33,3280.84,16,0.15,Customer_970,City_970,Cash,0.7
+972,South,Delhi,Beauty & Personal Care,Mobiles,42075.38,7477.6,19,0.2,Customer_971,City_971,Cash,0.18
+973,East,Rajasthan,Home & Kitchen,Kids' Fashion,34150.59,4391.86,13,0.05,Customer_972,City_972,UPI,0.13
+974,North,Sikkim,Clothing,Kids' Fashion,33393.35,-3204.46,6,0.0,Customer_973,City_973,Debit Card,-0.1
+975,South,Maharashtra,Beauty & Personal Care,Non-Fiction,4070.96,-4197.09,15,0.0,Customer_974,City_974,Debit Card,-1.03
+976,North,Himachal Pradesh,Beauty & Personal Care,Decor,38482.7,13564.65,2,0.0,Customer_975,City_975,Credit Card,0.35
+977,East,Nagaland,Home & Kitchen,Furniture,28152.75,718.74,3,0.0,Customer_976,City_976,Cash,0.03
+978,South,Punjab,Electronics,Non-Fiction,29068.1,-3998.73,11,0.1,Customer_977,City_977,UPI,-0.14
+979,East,Sikkim,Books,Women's Fashion,3887.81,12255.56,2,0.15,Customer_978,City_978,Cash,3.15
+980,Central,Sikkim,Home & Kitchen,Mobiles,13332.11,-618.24,1,0.05,Customer_979,City_979,Cash,-0.05
+981,North,Gujarat,Electronics,Non-Fiction,43882.87,2280.21,4,0.15,Customer_980,City_980,Cash,0.05
+982,Central,Uttar Pradesh,Clothing,Kids' Fashion,1149.18,-2977.15,9,0.15,Customer_981,City_981,UPI,-2.59
+983,Central,Madhya Pradesh,Clothing,Furniture,43383.22,8267.17,7,0.2,Customer_982,City_982,Debit Card,0.19
+984,East,Gujarat,Beauty & Personal Care,Decor,49317.31,8929.0,9,0.0,Customer_983,City_983,Cash,0.18
+985,North,Rajasthan,Home & Kitchen,Fiction,22604.45,7151.16,9,0.0,Customer_984,City_984,Credit Card,0.32
+986,Central,Tamil Nadu,Beauty & Personal Care,Women's Fashion,46053.26,10582.51,14,0.1,Customer_985,City_985,Debit Card,0.23
+987,South,Telangana,Beauty & Personal Care,Haircare,20026.06,5874.25,15,0.0,Customer_986,City_986,Credit Card,0.29
+988,South,Telangana,Beauty & Personal Care,Fiction,23343.53,2739.59,14,0.0,Customer_987,City_987,UPI,0.12
+989,South,Nagaland,Books,Televisions,10390.38,3044.73,19,0.15,Customer_988,City_988,Cash,0.29
+990,West,Nagaland,Books,Men's Fashion,34180.18,7321.64,17,0.1,Customer_989,City_989,Cash,0.21
+991,South,Himachal Pradesh,Clothing,Kids' Fashion,38517.9,1330.69,13,0.2,Customer_990,City_990,UPI,0.03
+992,North,Telangana,Books,Audio,35908.02,3200.83,7,0.05,Customer_991,City_991,UPI,0.09
+993,East,Andhra Pradesh,Clothing,Mobiles,14141.95,8941.16,2,0.1,Customer_992,City_992,Credit Card,0.63
+994,Central,Chhattisgarh,Electronics,Skincare,2020.43,8908.54,10,0.15,Customer_993,City_993,Credit Card,4.41
+995,East,Telangana,Beauty & Personal Care,Non-Fiction,37479.47,9081.24,16,0.1,Customer_994,City_994,UPI,0.24
+996,West,Gujarat,Beauty & Personal Care,Women's Fashion,12871.94,8304.86,3,0.0,Customer_995,City_995,Debit Card,0.65
+997,Central,Meghalaya,Books,Televisions,17812.03,7135.16,11,0.0,Customer_996,City_996,Cash,0.4
+998,North,Goa,Books,Kids' Fashion,23617.61,3540.93,6,0.2,Customer_997,City_997,Cash,0.15
+999,East,Bihar,Books,Skincare,30393.03,-847.91,9,0.15,Customer_998,City_998,Debit Card,-0.03
+1000,North,Meghalaya,Electronics,Textbooks,18037.7,5221.22,18,0.1,Customer_999,City_999,Debit Card,0.29
